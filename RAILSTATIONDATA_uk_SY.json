@@ -1,0 +1,2402 @@
+[
+  {
+    "Key": "Salford GSFD",
+    "Value": "Salford GSFD"
+  },
+  {
+    "Key": "Salford Crescent GSLD",
+    "Value": "Salford Crescent GSLD"
+  },
+  {
+    "Key": "Salfords GSAF",
+    "Value": "Salfords GSAF"
+  },
+  {
+    "Key": "Salhouse GSAH",
+    "Value": "Salhouse GSAH"
+  },
+  {
+    "Key": "Salisbury GSAL",
+    "Value": "Salisbury GSAL"
+  },
+  {
+    "Key": "Saltaire GSAE",
+    "Value": "Saltaire GSAE"
+  },
+  {
+    "Key": "Saltash GSTS",
+    "Value": "Saltash GSTS"
+  },
+  {
+    "Key": "Saltburn GSLB",
+    "Value": "Saltburn GSLB"
+  },
+  {
+    "Key": "Saltcoats GSLT",
+    "Value": "Saltcoats GSLT"
+  },
+  {
+    "Key": "Saltmarshe GSAM",
+    "Value": "Saltmarshe GSAM"
+  },
+  {
+    "Key": "Salwick GSLW",
+    "Value": "Salwick GSLW"
+  },
+  {
+    "Key": "Sandal And Agbrigg GSNA",
+    "Value": "Sandal And Agbrigg GSNA"
+  },
+  {
+    "Key": "Sandbach GSDB",
+    "Value": "Sandbach GSDB"
+  },
+  {
+    "Key": "Sanderstead GSNR",
+    "Value": "Sanderstead GSNR"
+  },
+  {
+    "Key": "Sandhills GSDL",
+    "Value": "Sandhills GSDL"
+  },
+  {
+    "Key": "Sandhurst GSND",
+    "Value": "Sandhurst GSND"
+  },
+  {
+    "Key": "Sandling GSDG",
+    "Value": "Sandling GSDG"
+  },
+  {
+    "Key": "Sandown GSAN",
+    "Value": "Sandown GSAN"
+  },
+  {
+    "Key": "Sandplace GSDP",
+    "Value": "Sandplace GSDP"
+  },
+  {
+    "Key": "Sandwell AND Dudley GSAD",
+    "Value": "Sandwell AND Dudley GSAD"
+  },
+  {
+    "Key": "Sandwich GSDW",
+    "Value": "Sandwich GSDW"
+  },
+  {
+    "Key": "Sandy GSDY",
+    "Value": "Sandy GSDY"
+  },
+  {
+    "Key": "Sankey For Penketh GSNK",
+    "Value": "Sankey For Penketh GSNK"
+  },
+  {
+    "Key": "Sanquhar GSQH",
+    "Value": "Sanquhar GSQH"
+  },
+  {
+    "Key": "Sarn GSRR",
+    "Value": "Sarn GSRR"
+  },
+  {
+    "Key": "Saundersfoot GSDF",
+    "Value": "Saundersfoot GSDF"
+  },
+  {
+    "Key": "Saunderton GSDR",
+    "Value": "Saunderton GSDR"
+  },
+  {
+    "Key": "Sawbridgeworth GSAW",
+    "Value": "Sawbridgeworth GSAW"
+  },
+  {
+    "Key": "Saxilby GSXY",
+    "Value": "Saxilby GSXY"
+  },
+  {
+    "Key": "Saxmundham GSAX",
+    "Value": "Saxmundham GSAX"
+  },
+  {
+    "Key": "Scarborough GSCA",
+    "Value": "Scarborough GSCA"
+  },
+  {
+    "Key": "Scotscalder GSCT",
+    "Value": "Scotscalder GSCT"
+  },
+  {
+    "Key": "Scotstounhill GSCH",
+    "Value": "Scotstounhill GSCH"
+  },
+  {
+    "Key": "Scunthorpe GSCU",
+    "Value": "Scunthorpe GSCU"
+  },
+  {
+    "Key": "Sea Mills GSML",
+    "Value": "Sea Mills GSML"
+  },
+  {
+    "Key": "Seaford GSEF",
+    "Value": "Seaford GSEF"
+  },
+  {
+    "Key": "Seaforth AND Litherland GSFL",
+    "Value": "Seaforth AND Litherland GSFL"
+  },
+  {
+    "Key": "Seaham GSEA",
+    "Value": "Seaham GSEA"
+  },
+  {
+    "Key": "Seamer GSEM",
+    "Value": "Seamer GSEM"
+  },
+  {
+    "Key": "Seascale GSSC",
+    "Value": "Seascale GSSC"
+  },
+  {
+    "Key": "Seaton Carew GSEC",
+    "Value": "Seaton Carew GSEC"
+  },
+  {
+    "Key": "Seer Green GSRG",
+    "Value": "Seer Green GSRG"
+  },
+  {
+    "Key": "Selby GSBY",
+    "Value": "Selby GSBY"
+  },
+  {
+    "Key": "Selhurst GSRS",
+    "Value": "Selhurst GSRS"
+  },
+  {
+    "Key": "Sellafield GSEL",
+    "Value": "Sellafield GSEL"
+  },
+  {
+    "Key": "Selling GSEG",
+    "Value": "Selling GSEG"
+  },
+  {
+    "Key": "Selly Oak GSLY",
+    "Value": "Selly Oak GSLY"
+  },
+  {
+    "Key": "Settle GSET",
+    "Value": "Settle GSET"
+  },
+  {
+    "Key": "Seven Kings GSVK",
+    "Value": "Seven Kings GSVK"
+  },
+  {
+    "Key": "Seven Sisters GSVS",
+    "Value": "Seven Sisters GSVS"
+  },
+  {
+    "Key": "Sevenoaks GSEV",
+    "Value": "Sevenoaks GSEV"
+  },
+  {
+    "Key": "Severn Beach GSVB",
+    "Value": "Severn Beach GSVB"
+  },
+  {
+    "Key": "Severn Tunnel Junction GSTJ",
+    "Value": "Severn Tunnel Junction GSTJ"
+  },
+  {
+    "Key": "Shalford GSFR",
+    "Value": "Shalford GSFR"
+  },
+  {
+    "Key": "Shanklin GSHN",
+    "Value": "Shanklin GSHN"
+  },
+  {
+    "Key": "Shaw and Crompton GSHA",
+    "Value": "Shaw and Crompton GSHA"
+  },
+  {
+    "Key": "Shawford GSHW",
+    "Value": "Shawford GSHW"
+  },
+  {
+    "Key": "Shawlands GSHL",
+    "Value": "Shawlands GSHL"
+  },
+  {
+    "Key": "Sheerness On Sea GSSS",
+    "Value": "Sheerness On Sea GSSS"
+  },
+  {
+    "Key": "Sheffield GSHF",
+    "Value": "Sheffield GSHF"
+  },
+  {
+    "Key": "Shelford GSED",
+    "Value": "Shelford GSED"
+  },
+  {
+    "Key": "Shenfield GSNF",
+    "Value": "Shenfield GSNF"
+  },
+  {
+    "Key": "Shenstone GSEN",
+    "Value": "Shenstone GSEN"
+  },
+  {
+    "Key": "Shepherds Well GSPH",
+    "Value": "Shepherds Well GSPH"
+  },
+  {
+    "Key": "Shepherds Bush GSPB",
+    "Value": "Shepherds Bush GSPB"
+  },
+  {
+    "Key": "Shepley GSPY",
+    "Value": "Shepley GSPY"
+  },
+  {
+    "Key": "Shepperton GSHP",
+    "Value": "Shepperton GSHP"
+  },
+  {
+    "Key": "Shepreth GSTH",
+    "Value": "Shepreth GSTH"
+  },
+  {
+    "Key": "Sherborne GSHE",
+    "Value": "Sherborne GSHE"
+  },
+  {
+    "Key": "Sherburn In Elmet GSIE",
+    "Value": "Sherburn In Elmet GSIE"
+  },
+  {
+    "Key": "Sheringham GSHM",
+    "Value": "Sheringham GSHM"
+  },
+  {
+    "Key": "Shettleston GSLS",
+    "Value": "Shettleston GSLS"
+  },
+  {
+    "Key": "Shieldmuir GSDM",
+    "Value": "Shieldmuir GSDM"
+  },
+  {
+    "Key": "Shifnal GSFN",
+    "Value": "Shifnal GSFN"
+  },
+  {
+    "Key": "Shildon GSHD",
+    "Value": "Shildon GSHD"
+  },
+  {
+    "Key": "Shiplake GSHI",
+    "Value": "Shiplake GSHI"
+  },
+  {
+    "Key": "Shipley GSHY",
+    "Value": "Shipley GSHY"
+  },
+  {
+    "Key": "Shippea Hill GSPP",
+    "Value": "Shippea Hill GSPP"
+  },
+  {
+    "Key": "Shipton GSIP",
+    "Value": "Shipton GSIP"
+  },
+  {
+    "Key": "Shirebrook Derbys GSHB",
+    "Value": "Shirebrook Derbys GSHB"
+  },
+  {
+    "Key": "Shirehampton GSHH",
+    "Value": "Shirehampton GSHH"
+  },
+  {
+    "Key": "Shireoaks GSRO",
+    "Value": "Shireoaks GSRO"
+  },
+  {
+    "Key": "Shirley GSRL",
+    "Value": "Shirley GSRL"
+  },
+  {
+    "Key": "Shoeburyness GSRY",
+    "Value": "Shoeburyness GSRY"
+  },
+  {
+    "Key": "Sholing GSHO",
+    "Value": "Sholing GSHO"
+  },
+  {
+    "Key": "Shoreham Kent GSEH",
+    "Value": "Shoreham Kent GSEH"
+  },
+  {
+    "Key": "Shoreham By Sea GSSE",
+    "Value": "Shoreham By Sea GSSE"
+  },
+  {
+    "Key": "Shortlands GSRT",
+    "Value": "Shortlands GSRT"
+  },
+  {
+    "Key": "Shotton GSHT",
+    "Value": "Shotton GSHT"
+  },
+  {
+    "Key": "Shotts GSHS",
+    "Value": "Shotts GSHS"
+  },
+  {
+    "Key": "Shrewsbury GSHR",
+    "Value": "Shrewsbury GSHR"
+  },
+  {
+    "Key": "Sidcup GSID",
+    "Value": "Sidcup GSID"
+  },
+  {
+    "Key": "Sileby GSIL",
+    "Value": "Sileby GSIL"
+  },
+  {
+    "Key": "Silecroft GSIC",
+    "Value": "Silecroft GSIC"
+  },
+  {
+    "Key": "Silkstone Common GSLK",
+    "Value": "Silkstone Common GSLK"
+  },
+  {
+    "Key": "Silver Street GSLV",
+    "Value": "Silver Street GSLV"
+  },
+  {
+    "Key": "Silverdale GSVR",
+    "Value": "Silverdale GSVR"
+  },
+  {
+    "Key": "Singer GSIN",
+    "Value": "Singer GSIN"
+  },
+  {
+    "Key": "Sittingbourne GSIT",
+    "Value": "Sittingbourne GSIT"
+  },
+  {
+    "Key": "Skegness GSKG",
+    "Value": "Skegness GSKG"
+  },
+  {
+    "Key": "Skewen GSKE",
+    "Value": "Skewen GSKE"
+  },
+  {
+    "Key": "Skipton GSKI",
+    "Value": "Skipton GSKI"
+  },
+  {
+    "Key": "Slade Green GSGR",
+    "Value": "Slade Green GSGR"
+  },
+  {
+    "Key": "Slaithwaite GSWT",
+    "Value": "Slaithwaite GSWT"
+  },
+  {
+    "Key": "Slateford GSLA",
+    "Value": "Slateford GSLA"
+  },
+  {
+    "Key": "Sleaford GSLR",
+    "Value": "Sleaford GSLR"
+  },
+  {
+    "Key": "Sleights GSLH",
+    "Value": "Sleights GSLH"
+  },
+  {
+    "Key": "Slough GSLO",
+    "Value": "Slough GSLO"
+  },
+  {
+    "Key": "Small Heath GSMA",
+    "Value": "Small Heath GSMA"
+  },
+  {
+    "Key": "Smallbrook Junction GSAB",
+    "Value": "Smallbrook Junction GSAB"
+  },
+  {
+    "Key": "Smethwick Galton Bridge GSGB",
+    "Value": "Smethwick Galton Bridge GSGB"
+  },
+  {
+    "Key": "Smethwick Rolfe Street GSMR",
+    "Value": "Smethwick Rolfe Street GSMR"
+  },
+  {
+    "Key": "Smitham GSMI",
+    "Value": "Smitham GSMI"
+  },
+  {
+    "Key": "Smithy Bridge GSMB",
+    "Value": "Smithy Bridge GSMB"
+  },
+  {
+    "Key": "Snaith GSNI",
+    "Value": "Snaith GSNI"
+  },
+  {
+    "Key": "Snodland GSDA",
+    "Value": "Snodland GSDA"
+  },
+  {
+    "Key": "Snowdown GSWO",
+    "Value": "Snowdown GSWO"
+  },
+  {
+    "Key": "Sole Street GSOR",
+    "Value": "Sole Street GSOR"
+  },
+  {
+    "Key": "Solihull GSOL",
+    "Value": "Solihull GSOL"
+  },
+  {
+    "Key": "Somerleyton GSYT",
+    "Value": "Somerleyton GSYT"
+  },
+  {
+    "Key": "South Acton GSAT",
+    "Value": "South Acton GSAT"
+  },
+  {
+    "Key": "South Bank GSBK",
+    "Value": "South Bank GSBK"
+  },
+  {
+    "Key": "South Bermondsey GSBM",
+    "Value": "South Bermondsey GSBM"
+  },
+  {
+    "Key": "South Croydon GSCY",
+    "Value": "South Croydon GSCY"
+  },
+  {
+    "Key": "South Elmsall GSES",
+    "Value": "South Elmsall GSES"
+  },
+  {
+    "Key": "South Greenford GSGN",
+    "Value": "South Greenford GSGN"
+  },
+  {
+    "Key": "South Gyle GSGL",
+    "Value": "South Gyle GSGL"
+  },
+  {
+    "Key": "South Hampstead GSOH",
+    "Value": "South Hampstead GSOH"
+  },
+  {
+    "Key": "South Kenton GSOK",
+    "Value": "South Kenton GSOK"
+  },
+  {
+    "Key": "South Merton GSMO",
+    "Value": "South Merton GSMO"
+  },
+  {
+    "Key": "South Milford GSOM",
+    "Value": "South Milford GSOM"
+  },
+  {
+    "Key": "South Ruislip GSRU",
+    "Value": "South Ruislip GSRU"
+  },
+  {
+    "Key": "South Tottenham GSTO",
+    "Value": "South Tottenham GSTO"
+  },
+  {
+    "Key": "South Wigston GSWS",
+    "Value": "South Wigston GSWS"
+  },
+  {
+    "Key": "Southall GSTL",
+    "Value": "Southall GSTL"
+  },
+  {
+    "Key": "Southampton Airport Parkway GSOA",
+    "Value": "Southampton Airport Parkway GSOA"
+  },
+  {
+    "Key": "Southampton Central GSOU",
+    "Value": "Southampton Central GSOU"
+  },
+  {
+    "Key": "Southbourne GSOB",
+    "Value": "Southbourne GSOB"
+  },
+  {
+    "Key": "Southbury GSBU",
+    "Value": "Southbury GSBU"
+  },
+  {
+    "Key": "Southease GSEE",
+    "Value": "Southease GSEE"
+  },
+  {
+    "Key": "Southend Central GSOC",
+    "Value": "Southend Central GSOC"
+  },
+  {
+    "Key": "Southend East GSOE",
+    "Value": "Southend East GSOE"
+  },
+  {
+    "Key": "Southend Victoria GSOV",
+    "Value": "Southend Victoria GSOV"
+  },
+  {
+    "Key": "Southminster GSMN",
+    "Value": "Southminster GSMN"
+  },
+  {
+    "Key": "Southport GSOP",
+    "Value": "Southport GSOP"
+  },
+  {
+    "Key": "Southwick GSWK",
+    "Value": "Southwick GSWK"
+  },
+  {
+    "Key": "Sowerby Bridge GSOW",
+    "Value": "Sowerby Bridge GSOW"
+  },
+  {
+    "Key": "Spalding GSPA",
+    "Value": "Spalding GSPA"
+  },
+  {
+    "Key": "Spean Bridge GSBR",
+    "Value": "Spean Bridge GSBR"
+  },
+  {
+    "Key": "Spital GSPI",
+    "Value": "Spital GSPI"
+  },
+  {
+    "Key": "Spondon GSPO",
+    "Value": "Spondon GSPO"
+  },
+  {
+    "Key": "Spooner Row GSPN",
+    "Value": "Spooner Row GSPN"
+  },
+  {
+    "Key": "Spring Road GSRI",
+    "Value": "Spring Road GSRI"
+  },
+  {
+    "Key": "Springburn GSPR",
+    "Value": "Springburn GSPR"
+  },
+  {
+    "Key": "Springfield GSPF",
+    "Value": "Springfield GSPF"
+  },
+  {
+    "Key": "Squires Gate GSQU",
+    "Value": "Squires Gate GSQU"
+  },
+  {
+    "Key": "StAlbans Abbey GSAA",
+    "Value": "StAlbans Abbey GSAA"
+  },
+  {
+    "Key": "StAlbans City GSAC",
+    "Value": "StAlbans City GSAC"
+  },
+  {
+    "Key": "StAndrews Road GSAR",
+    "Value": "StAndrews Road GSAR"
+  },
+  {
+    "Key": "StAnnes On The Sea GSAS",
+    "Value": "StAnnes On The Sea GSAS"
+  },
+  {
+    "Key": "StAustell GSAU",
+    "Value": "StAustell GSAU"
+  },
+  {
+    "Key": "StBees GSBS",
+    "Value": "StBees GSBS"
+  },
+  {
+    "Key": "StBudeaux Ferry Road GSBF",
+    "Value": "StBudeaux Ferry Road GSBF"
+  },
+  {
+    "Key": "StBudeaux Victoria Road GSBV",
+    "Value": "StBudeaux Victoria Road GSBV"
+  },
+  {
+    "Key": "StColumb Road GSCR",
+    "Value": "StColumb Road GSCR"
+  },
+  {
+    "Key": "StDenys GSDN",
+    "Value": "StDenys GSDN"
+  },
+  {
+    "Key": "StErth GSER",
+    "Value": "StErth GSER"
+  },
+  {
+    "Key": "StGermans GSGM",
+    "Value": "StGermans GSGM"
+  },
+  {
+    "Key": "StHelens Central GSNH",
+    "Value": "StHelens Central GSNH"
+  },
+  {
+    "Key": "StHelens Junction GSHJ",
+    "Value": "StHelens Junction GSHJ"
+  },
+  {
+    "Key": "StHelier GSIH",
+    "Value": "StHelier GSIH"
+  },
+  {
+    "Key": "StIves GSIV",
+    "Value": "StIves GSIV"
+  },
+  {
+    "Key": "StJames Park GSJP",
+    "Value": "StJames Park GSJP"
+  },
+  {
+    "Key": "StJames Street GSJS",
+    "Value": "StJames Street GSJS"
+  },
+  {
+    "Key": "StJohns GSAJ",
+    "Value": "StJohns GSAJ"
+  },
+  {
+    "Key": "StKeyne GSKN",
+    "Value": "StKeyne GSKN"
+  },
+  {
+    "Key": "StLeonards Warrior Square GSLQ",
+    "Value": "StLeonards Warrior Square GSLQ"
+  },
+  {
+    "Key": "StMargarets Greater London GSMG",
+    "Value": "StMargarets Greater London GSMG"
+  },
+  {
+    "Key": "StMargarets Hertfordshire GSMT",
+    "Value": "StMargarets Hertfordshire GSMT"
+  },
+  {
+    "Key": "StMary Cray GSMY",
+    "Value": "StMary Cray GSMY"
+  },
+  {
+    "Key": "StMichaels GSTM",
+    "Value": "StMichaels GSTM"
+  },
+  {
+    "Key": "StNeots GSNO",
+    "Value": "StNeots GSNO"
+  },
+  {
+    "Key": "StPancras GSTP",
+    "Value": "StPancras GSTP"
+  },
+  {
+    "Key": "Stafford GSTA",
+    "Value": "Stafford GSTA"
+  },
+  {
+    "Key": "Staines GSNS",
+    "Value": "Staines GSNS"
+  },
+  {
+    "Key": "Stallingborough GSLL",
+    "Value": "Stallingborough GSLL"
+  },
+  {
+    "Key": "Stalybridge GSYB",
+    "Value": "Stalybridge GSYB"
+  },
+  {
+    "Key": "Stamford GSMD",
+    "Value": "Stamford GSMD"
+  },
+  {
+    "Key": "Stamford Hill GSMH",
+    "Value": "Stamford Hill GSMH"
+  },
+  {
+    "Key": "Stanford Le Hope GSFO",
+    "Value": "Stanford Le Hope GSFO"
+  },
+  {
+    "Key": "Stanlow AND Thornton GSNT",
+    "Value": "Stanlow AND Thornton GSNT"
+  },
+  {
+    "Key": "Stansted Airport GSSD",
+    "Value": "Stansted Airport GSSD"
+  },
+  {
+    "Key": "Stansted Mountfitchet GSST",
+    "Value": "Stansted Mountfitchet GSST"
+  },
+  {
+    "Key": "Staplehurst GSPU",
+    "Value": "Staplehurst GSPU"
+  },
+  {
+    "Key": "Stapleton Road GSRD",
+    "Value": "Stapleton Road GSRD"
+  },
+  {
+    "Key": "Starbeck GSBE",
+    "Value": "Starbeck GSBE"
+  },
+  {
+    "Key": "Starcross GSCS",
+    "Value": "Starcross GSCS"
+  },
+  {
+    "Key": "Staveley Cumbria GSVL",
+    "Value": "Staveley Cumbria GSVL"
+  },
+  {
+    "Key": "Stechford GSCF",
+    "Value": "Stechford GSCF"
+  },
+  {
+    "Key": "Steeton AND Silsden GSON",
+    "Value": "Steeton AND Silsden GSON"
+  },
+  {
+    "Key": "Stepps GSPS",
+    "Value": "Stepps GSPS"
+  },
+  {
+    "Key": "Stevenage GSVG",
+    "Value": "Stevenage GSVG"
+  },
+  {
+    "Key": "Stevenston GSTV",
+    "Value": "Stevenston GSTV"
+  },
+  {
+    "Key": "Stewartby GSWR",
+    "Value": "Stewartby GSWR"
+  },
+  {
+    "Key": "Stewarton GSTT",
+    "Value": "Stewarton GSTT"
+  },
+  {
+    "Key": "Stirling GSTG",
+    "Value": "Stirling GSTG"
+  },
+  {
+    "Key": "Stockport GSPT",
+    "Value": "Stockport GSPT"
+  },
+  {
+    "Key": "Stocksfield GSKS",
+    "Value": "Stocksfield GSKS"
+  },
+  {
+    "Key": "Stocksmoor GSSM",
+    "Value": "Stocksmoor GSSM"
+  },
+  {
+    "Key": "Stockton GSTK",
+    "Value": "Stockton GSTK"
+  },
+  {
+    "Key": "Stoke Mandeville GSKM",
+    "Value": "Stoke Mandeville GSKM"
+  },
+  {
+    "Key": "Stoke Newington GSKW",
+    "Value": "Stoke Newington GSKW"
+  },
+  {
+    "Key": "Stoke On Trent GSOT",
+    "Value": "Stoke On Trent GSOT"
+  },
+  {
+    "Key": "Stone GSNE",
+    "Value": "Stone GSNE"
+  },
+  {
+    "Key": "Stone Crossing GSCG",
+    "Value": "Stone Crossing GSCG"
+  },
+  {
+    "Key": "Stonebridge Park GSBP",
+    "Value": "Stonebridge Park GSBP"
+  },
+  {
+    "Key": "Stonegate GSOG",
+    "Value": "Stonegate GSOG"
+  },
+  {
+    "Key": "Stonehaven GSTN",
+    "Value": "Stonehaven GSTN"
+  },
+  {
+    "Key": "Stonehouse GSHU",
+    "Value": "Stonehouse GSHU"
+  },
+  {
+    "Key": "Stoneleigh GSNL",
+    "Value": "Stoneleigh GSNL"
+  },
+  {
+    "Key": "Stourbridge Junction GSBJ",
+    "Value": "Stourbridge Junction GSBJ"
+  },
+  {
+    "Key": "Stourbridge Town GSBT",
+    "Value": "Stourbridge Town GSBT"
+  },
+  {
+    "Key": "Stowmarket GSMK",
+    "Value": "Stowmarket GSMK"
+  },
+  {
+    "Key": "Stranraer GSTR",
+    "Value": "Stranraer GSTR"
+  },
+  {
+    "Key": "Stratford GSRA",
+    "Value": "Stratford GSRA"
+  },
+  {
+    "Key": "Stratford International GSFA",
+    "Value": "Stratford International GSFA"
+  },
+  {
+    "Key": "Stratford Upon Avon GSAV",
+    "Value": "Stratford Upon Avon GSAV"
+  },
+  {
+    "Key": "Strathcarron GSTC",
+    "Value": "Strathcarron GSTC"
+  },
+  {
+    "Key": "Strawberry Hill GSTW",
+    "Value": "Strawberry Hill GSTW"
+  },
+  {
+    "Key": "Streatham GSTE",
+    "Value": "Streatham GSTE"
+  },
+  {
+    "Key": "Streatham Common GSRC",
+    "Value": "Streatham Common GSRC"
+  },
+  {
+    "Key": "Streatham Hill GSRH",
+    "Value": "Streatham Hill GSRH"
+  },
+  {
+    "Key": "Streethouse GSHC",
+    "Value": "Streethouse GSHC"
+  },
+  {
+    "Key": "Strines GSRN",
+    "Value": "Strines GSRN"
+  },
+  {
+    "Key": "Stromeferry GSTF",
+    "Value": "Stromeferry GSTF"
+  },
+  {
+    "Key": "Strood GSOO",
+    "Value": "Strood GSOO"
+  },
+  {
+    "Key": "Stroud GSTD",
+    "Value": "Stroud GSTD"
+  },
+  {
+    "Key": "Sturry GSTU",
+    "Value": "Sturry GSTU"
+  },
+  {
+    "Key": "Styal GSYA",
+    "Value": "Styal GSYA"
+  },
+  {
+    "Key": "Sudbury GSUY",
+    "Value": "Sudbury GSUY"
+  },
+  {
+    "Key": "Sudbury AND Harrow Road GSUD",
+    "Value": "Sudbury AND Harrow Road GSUD"
+  },
+  {
+    "Key": "Sudbury Hill Harrow GSDH",
+    "Value": "Sudbury Hill Harrow GSDH"
+  },
+  {
+    "Key": "Sugar Loaf GSUG",
+    "Value": "Sugar Loaf GSUG"
+  },
+  {
+    "Key": "Summerston GSUM",
+    "Value": "Summerston GSUM"
+  },
+  {
+    "Key": "Sunbury GSUU",
+    "Value": "Sunbury GSUU"
+  },
+  {
+    "Key": "Sunderland GSUN",
+    "Value": "Sunderland GSUN"
+  },
+  {
+    "Key": "Sundridge Park GSUP",
+    "Value": "Sundridge Park GSUP"
+  },
+  {
+    "Key": "Sunningdale GSNG",
+    "Value": "Sunningdale GSNG"
+  },
+  {
+    "Key": "Sunnymeads GSNY",
+    "Value": "Sunnymeads GSNY"
+  },
+  {
+    "Key": "Surbiton GSUR",
+    "Value": "Surbiton GSUR"
+  },
+  {
+    "Key": "Sutton Surrey GSUO",
+    "Value": "Sutton Surrey GSUO"
+  },
+  {
+    "Key": "Sutton Coldfield GSUT",
+    "Value": "Sutton Coldfield GSUT"
+  },
+  {
+    "Key": "Sutton Common GSUC",
+    "Value": "Sutton Common GSUC"
+  },
+  {
+    "Key": "Sutton Parkway GSPK",
+    "Value": "Sutton Parkway GSPK"
+  },
+  {
+    "Key": "Swale GSWL",
+    "Value": "Swale GSWL"
+  },
+  {
+    "Key": "Swanley GSAY",
+    "Value": "Swanley GSAY"
+  },
+  {
+    "Key": "Swanscombe GSWM",
+    "Value": "Swanscombe GSWM"
+  },
+  {
+    "Key": "Swansea GSWA",
+    "Value": "Swansea GSWA"
+  },
+  {
+    "Key": "Swanwick GSNW",
+    "Value": "Swanwick GSNW"
+  },
+  {
+    "Key": "Sway GSWY",
+    "Value": "Sway GSWY"
+  },
+  {
+    "Key": "Swaythling GSWG",
+    "Value": "Swaythling GSWG"
+  },
+  {
+    "Key": "Swinderby GSWD",
+    "Value": "Swinderby GSWD"
+  },
+  {
+    "Key": "Swindon GSWI",
+    "Value": "Swindon GSWI"
+  },
+  {
+    "Key": "Swineshead GSWE",
+    "Value": "Swineshead GSWE"
+  },
+  {
+    "Key": "Swinton Greater Manchester GSNN",
+    "Value": "Swinton Greater Manchester GSNN"
+  },
+  {
+    "Key": "Swinton South Yorkshire GSWN",
+    "Value": "Swinton South Yorkshire GSWN"
+  },
+  {
+    "Key": "Sydenham GSYD",
+    "Value": "Sydenham GSYD"
+  },
+  {
+    "Key": "Sydenham Hill GSYH",
+    "Value": "Sydenham Hill GSYH"
+  },
+  {
+    "Key": "Syon Lane GSYL",
+    "Value": "Syon Lane GSYL"
+  },
+  {
+    "Key": "Syston GSYS",
+    "Value": "Syston GSYS"
+  },
+  {
+    "Key": "Tackley GTAC",
+    "Value": "Tackley GTAC"
+  },
+  {
+    "Key": "Tadworth GTAD",
+    "Value": "Tadworth GTAD"
+  },
+  {
+    "Key": "Taffs Well GTAF",
+    "Value": "Taffs Well GTAF"
+  },
+  {
+    "Key": "Tain GTAI",
+    "Value": "Tain GTAI"
+  },
+  {
+    "Key": "Tal y Cafn GTLC",
+    "Value": "Tal y Cafn GTLC"
+  },
+  {
+    "Key": "Talsarnau GTAL",
+    "Value": "Talsarnau GTAL"
+  },
+  {
+    "Key": "Talybont GTLB",
+    "Value": "Talybont GTLB"
+  },
+  {
+    "Key": "Tame Bridge Parkway GTAB",
+    "Value": "Tame Bridge Parkway GTAB"
+  },
+  {
+    "Key": "Tamworth Low Level GTAM",
+    "Value": "Tamworth Low Level GTAM"
+  },
+  {
+    "Key": "Taplow GTAP",
+    "Value": "Taplow GTAP"
+  },
+  {
+    "Key": "Tattenham Corner GTAT",
+    "Value": "Tattenham Corner GTAT"
+  },
+  {
+    "Key": "Taunton GTAU",
+    "Value": "Taunton GTAU"
+  },
+  {
+    "Key": "Taynuilt GTAY",
+    "Value": "Taynuilt GTAY"
+  },
+  {
+    "Key": "Teddington GTED",
+    "Value": "Teddington GTED"
+  },
+  {
+    "Key": "Tees Side Airport GTEA",
+    "Value": "Tees Side Airport GTEA"
+  },
+  {
+    "Key": "Teignmouth GTGM",
+    "Value": "Teignmouth GTGM"
+  },
+  {
+    "Key": "Telford Central GTFC",
+    "Value": "Telford Central GTFC"
+  },
+  {
+    "Key": "Templecombe GTMC",
+    "Value": "Templecombe GTMC"
+  },
+  {
+    "Key": "Tenby GTEN",
+    "Value": "Tenby GTEN"
+  },
+  {
+    "Key": "Teynham GTEY",
+    "Value": "Teynham GTEY"
+  },
+  {
+    "Key": "Thames Ditton GTHD",
+    "Value": "Thames Ditton GTHD"
+  },
+  {
+    "Key": "Thatcham GTHA",
+    "Value": "Thatcham GTHA"
+  },
+  {
+    "Key": "Thatto Heath GTHH",
+    "Value": "Thatto Heath GTHH"
+  },
+  {
+    "Key": "The Hawthorns GTHW",
+    "Value": "The Hawthorns GTHW"
+  },
+  {
+    "Key": "The Lakes GTLK",
+    "Value": "The Lakes GTLK"
+  },
+  {
+    "Key": "Theale GTHE",
+    "Value": "Theale GTHE"
+  },
+  {
+    "Key": "Theobalds Grove GTEO",
+    "Value": "Theobalds Grove GTEO"
+  },
+  {
+    "Key": "Thetford GTTF",
+    "Value": "Thetford GTTF"
+  },
+  {
+    "Key": "Thirsk GTHI",
+    "Value": "Thirsk GTHI"
+  },
+  {
+    "Key": "Thornaby GTBY",
+    "Value": "Thornaby GTBY"
+  },
+  {
+    "Key": "Thorne North GTNN",
+    "Value": "Thorne North GTNN"
+  },
+  {
+    "Key": "Thorne South GTNS",
+    "Value": "Thorne South GTNS"
+  },
+  {
+    "Key": "Thornford GTHO",
+    "Value": "Thornford GTHO"
+  },
+  {
+    "Key": "Thornliebank GTHB",
+    "Value": "Thornliebank GTHB"
+  },
+  {
+    "Key": "Thornton Abbey GTNA",
+    "Value": "Thornton Abbey GTNA"
+  },
+  {
+    "Key": "Thornton Heath GTTH",
+    "Value": "Thornton Heath GTTH"
+  },
+  {
+    "Key": "Thorntonhall GTHT",
+    "Value": "Thorntonhall GTHT"
+  },
+  {
+    "Key": "Thorpe Bay GTPB",
+    "Value": "Thorpe Bay GTPB"
+  },
+  {
+    "Key": "Thorpe Culvert GTPC",
+    "Value": "Thorpe Culvert GTPC"
+  },
+  {
+    "Key": "Thorpe le Soken GTLS",
+    "Value": "Thorpe le Soken GTLS"
+  },
+  {
+    "Key": "Three Bridges GTBD",
+    "Value": "Three Bridges GTBD"
+  },
+  {
+    "Key": "Three Oaks GTOK",
+    "Value": "Three Oaks GTOK"
+  },
+  {
+    "Key": "Thurgarton GTHU",
+    "Value": "Thurgarton GTHU"
+  },
+  {
+    "Key": "Thurnscoe GTHC",
+    "Value": "Thurnscoe GTHC"
+  },
+  {
+    "Key": "Thurso GTHS",
+    "Value": "Thurso GTHS"
+  },
+  {
+    "Key": "Thurston GTRS",
+    "Value": "Thurston GTRS"
+  },
+  {
+    "Key": "Tilbury Town GTIL",
+    "Value": "Tilbury Town GTIL"
+  },
+  {
+    "Key": "Tile Hill GTHL",
+    "Value": "Tile Hill GTHL"
+  },
+  {
+    "Key": "Tilehurst GTLH",
+    "Value": "Tilehurst GTLH"
+  },
+  {
+    "Key": "Tipton GTIP",
+    "Value": "Tipton GTIP"
+  },
+  {
+    "Key": "Tir Phil GTIR",
+    "Value": "Tir Phil GTIR"
+  },
+  {
+    "Key": "Tisbury GTIS",
+    "Value": "Tisbury GTIS"
+  },
+  {
+    "Key": "Tiverton Parkway GTVP",
+    "Value": "Tiverton Parkway GTVP"
+  },
+  {
+    "Key": "Todmorden GTOD",
+    "Value": "Todmorden GTOD"
+  },
+  {
+    "Key": "Tolworth GTOL",
+    "Value": "Tolworth GTOL"
+  },
+  {
+    "Key": "Ton Pentre GTPN",
+    "Value": "Ton Pentre GTPN"
+  },
+  {
+    "Key": "Tonbridge GTON",
+    "Value": "Tonbridge GTON"
+  },
+  {
+    "Key": "Tondu GTDU",
+    "Value": "Tondu GTDU"
+  },
+  {
+    "Key": "Tonfanau GTNF",
+    "Value": "Tonfanau GTNF"
+  },
+  {
+    "Key": "Tonypandy GTNP",
+    "Value": "Tonypandy GTNP"
+  },
+  {
+    "Key": "Tooting GTOO",
+    "Value": "Tooting GTOO"
+  },
+  {
+    "Key": "Topsham GTOP",
+    "Value": "Topsham GTOP"
+  },
+  {
+    "Key": "Torquay GTQY",
+    "Value": "Torquay GTQY"
+  },
+  {
+    "Key": "Torre GTRR",
+    "Value": "Torre GTRR"
+  },
+  {
+    "Key": "Totnes GTOT",
+    "Value": "Totnes GTOT"
+  },
+  {
+    "Key": "Tottenham Hale GTOM",
+    "Value": "Tottenham Hale GTOM"
+  },
+  {
+    "Key": "Totton GTTN",
+    "Value": "Totton GTTN"
+  },
+  {
+    "Key": "Town Green GTWN",
+    "Value": "Town Green GTWN"
+  },
+  {
+    "Key": "Trafford Park GTRA",
+    "Value": "Trafford Park GTRA"
+  },
+  {
+    "Key": "Trefforest GTRF",
+    "Value": "Trefforest GTRF"
+  },
+  {
+    "Key": "Trefforest Estate GTRE",
+    "Value": "Trefforest Estate GTRE"
+  },
+  {
+    "Key": "Trehafod GTRH",
+    "Value": "Trehafod GTRH"
+  },
+  {
+    "Key": "Treherbert GTRB",
+    "Value": "Treherbert GTRB"
+  },
+  {
+    "Key": "Treorchy GTRY",
+    "Value": "Treorchy GTRY"
+  },
+  {
+    "Key": "Trimley GTRM",
+    "Value": "Trimley GTRM"
+  },
+  {
+    "Key": "Tring GTRI",
+    "Value": "Tring GTRI"
+  },
+  {
+    "Key": "Troed Y Rhiw GTRD",
+    "Value": "Troed Y Rhiw GTRD"
+  },
+  {
+    "Key": "Troon GTRN",
+    "Value": "Troon GTRN"
+  },
+  {
+    "Key": "Trowbridge GTRO",
+    "Value": "Trowbridge GTRO"
+  },
+  {
+    "Key": "Truro GTRU",
+    "Value": "Truro GTRU"
+  },
+  {
+    "Key": "Tulloch GTUL",
+    "Value": "Tulloch GTUL"
+  },
+  {
+    "Key": "Tulse Hill GTUH",
+    "Value": "Tulse Hill GTUH"
+  },
+  {
+    "Key": "Tunbridge Wells GTBW",
+    "Value": "Tunbridge Wells GTBW"
+  },
+  {
+    "Key": "Turkey Street GTUR",
+    "Value": "Turkey Street GTUR"
+  },
+  {
+    "Key": "Tutbury AND Hatton GTUT",
+    "Value": "Tutbury AND Hatton GTUT"
+  },
+  {
+    "Key": "Twickenham GTWI",
+    "Value": "Twickenham GTWI"
+  },
+  {
+    "Key": "Twyford GTWY",
+    "Value": "Twyford GTWY"
+  },
+  {
+    "Key": "Ty Croes GTYC",
+    "Value": "Ty Croes GTYC"
+  },
+  {
+    "Key": "Ty Glas GTGS",
+    "Value": "Ty Glas GTGS"
+  },
+  {
+    "Key": "Tygwyn GTYG",
+    "Value": "Tygwyn GTYG"
+  },
+  {
+    "Key": "Tyndrum Lower GTYL",
+    "Value": "Tyndrum Lower GTYL"
+  },
+  {
+    "Key": "Tyseley GTYS",
+    "Value": "Tyseley GTYS"
+  },
+  {
+    "Key": "Tywyn GTYW",
+    "Value": "Tywyn GTYW"
+  },
+  {
+    "Key": "Uckfield GUCK",
+    "Value": "Uckfield GUCK"
+  },
+  {
+    "Key": "Uddingston GUDD",
+    "Value": "Uddingston GUDD"
+  },
+  {
+    "Key": "Ulceby GULC",
+    "Value": "Ulceby GULC"
+  },
+  {
+    "Key": "Ulleskelf GULL",
+    "Value": "Ulleskelf GULL"
+  },
+  {
+    "Key": "Ulverston GULV",
+    "Value": "Ulverston GULV"
+  },
+  {
+    "Key": "Umberleigh GUMB",
+    "Value": "Umberleigh GUMB"
+  },
+  {
+    "Key": "University GUNI",
+    "Value": "University GUNI"
+  },
+  {
+    "Key": "Uphall GUHA",
+    "Value": "Uphall GUHA"
+  },
+  {
+    "Key": "Upholland GUPL",
+    "Value": "Upholland GUPL"
+  },
+  {
+    "Key": "Upminster GUPM",
+    "Value": "Upminster GUPM"
+  },
+  {
+    "Key": "Upper Halliford GUPH",
+    "Value": "Upper Halliford GUPH"
+  },
+  {
+    "Key": "Upper Holloway GUHL",
+    "Value": "Upper Holloway GUHL"
+  },
+  {
+    "Key": "Upper Tyndrum GUTY",
+    "Value": "Upper Tyndrum GUTY"
+  },
+  {
+    "Key": "Upper Warlingham GUWL",
+    "Value": "Upper Warlingham GUWL"
+  },
+  {
+    "Key": "Upton GUPT",
+    "Value": "Upton GUPT"
+  },
+  {
+    "Key": "Upwey GUPW",
+    "Value": "Upwey GUPW"
+  },
+  {
+    "Key": "Urmston GURM",
+    "Value": "Urmston GURM"
+  },
+  {
+    "Key": "Uttoxeter GUTT",
+    "Value": "Uttoxeter GUTT"
+  },
+  {
+    "Key": "Valley GVAL",
+    "Value": "Valley GVAL"
+  },
+  {
+    "Key": "Vauxhall GVXH",
+    "Value": "Vauxhall GVXH"
+  },
+  {
+    "Key": "Victoria GVIC",
+    "Value": "Victoria GVIC"
+  },
+  {
+    "Key": "Virginia Water GVIR",
+    "Value": "Virginia Water GVIR"
+  },
+  {
+    "Key": "Waddon GWDO",
+    "Value": "Waddon GWDO"
+  },
+  {
+    "Key": "Wadhurst GWAD",
+    "Value": "Wadhurst GWAD"
+  },
+  {
+    "Key": "Wainfleet GWFL",
+    "Value": "Wainfleet GWFL"
+  },
+  {
+    "Key": "Wakefield Kirkgate GWKK",
+    "Value": "Wakefield Kirkgate GWKK"
+  },
+  {
+    "Key": "Wakefield Westgate GWKF",
+    "Value": "Wakefield Westgate GWKF"
+  },
+  {
+    "Key": "Walkden GWKD",
+    "Value": "Walkden GWKD"
+  },
+  {
+    "Key": "Wallasey Grove Road GWLG",
+    "Value": "Wallasey Grove Road GWLG"
+  },
+  {
+    "Key": "Wallasey Village GWLV",
+    "Value": "Wallasey Village GWLV"
+  },
+  {
+    "Key": "Wallington GWLT",
+    "Value": "Wallington GWLT"
+  },
+  {
+    "Key": "Wallyford GWAF",
+    "Value": "Wallyford GWAF"
+  },
+  {
+    "Key": "Walmer GWAM",
+    "Value": "Walmer GWAM"
+  },
+  {
+    "Key": "Walsall GWSL",
+    "Value": "Walsall GWSL"
+  },
+  {
+    "Key": "Walsden GWDN",
+    "Value": "Walsden GWDN"
+  },
+  {
+    "Key": "Waltham Cross GWLC",
+    "Value": "Waltham Cross GWLC"
+  },
+  {
+    "Key": "Walthamstow Central GWHC",
+    "Value": "Walthamstow Central GWHC"
+  },
+  {
+    "Key": "Walthamstow Queens Road GWMW",
+    "Value": "Walthamstow Queens Road GWMW"
+  },
+  {
+    "Key": "Walton Merseyside GWAO",
+    "Value": "Walton Merseyside GWAO"
+  },
+  {
+    "Key": "Walton On Naze GWON",
+    "Value": "Walton On Naze GWON"
+  },
+  {
+    "Key": "Walton On Thames GWAL",
+    "Value": "Walton On Thames GWAL"
+  },
+  {
+    "Key": "Wanborough GWAN",
+    "Value": "Wanborough GWAN"
+  },
+  {
+    "Key": "Wandsworth Common GWSW",
+    "Value": "Wandsworth Common GWSW"
+  },
+  {
+    "Key": "Wandsworth Road GWWR",
+    "Value": "Wandsworth Road GWWR"
+  },
+  {
+    "Key": "Wandsworth Town GWNT",
+    "Value": "Wandsworth Town GWNT"
+  },
+  {
+    "Key": "Wanstead Park GWNP",
+    "Value": "Wanstead Park GWNP"
+  },
+  {
+    "Key": "Warblington GWBL",
+    "Value": "Warblington GWBL"
+  },
+  {
+    "Key": "Ware GWAR",
+    "Value": "Ware GWAR"
+  },
+  {
+    "Key": "Wareham GWRM",
+    "Value": "Wareham GWRM"
+  },
+  {
+    "Key": "Wargrave GWGV",
+    "Value": "Wargrave GWGV"
+  },
+  {
+    "Key": "Warminster GWMN",
+    "Value": "Warminster GWMN"
+  },
+  {
+    "Key": "Warnham GWNH",
+    "Value": "Warnham GWNH"
+  },
+  {
+    "Key": "Warrington Bank Quay GWBQ",
+    "Value": "Warrington Bank Quay GWBQ"
+  },
+  {
+    "Key": "Warrington Central GWAC",
+    "Value": "Warrington Central GWAC"
+  },
+  {
+    "Key": "Warwick GWRW",
+    "Value": "Warwick GWRW"
+  },
+  {
+    "Key": "Warwick Parkway GWRP",
+    "Value": "Warwick Parkway GWRP"
+  },
+  {
+    "Key": "Water Orton GWTO",
+    "Value": "Water Orton GWTO"
+  },
+  {
+    "Key": "Waterbeach GWBC",
+    "Value": "Waterbeach GWBC"
+  },
+  {
+    "Key": "Wateringbury GWTR",
+    "Value": "Wateringbury GWTR"
+  },
+  {
+    "Key": "Waterloo GWAT",
+    "Value": "Waterloo GWAT"
+  },
+  {
+    "Key": "Waterloo East GWAE",
+    "Value": "Waterloo East GWAE"
+  },
+  {
+    "Key": "Waterloo Merseyside GWLO",
+    "Value": "Waterloo Merseyside GWLO"
+  },
+  {
+    "Key": "Watford High Street GWFH",
+    "Value": "Watford High Street GWFH"
+  },
+  {
+    "Key": "Watford Junction GWFJ",
+    "Value": "Watford Junction GWFJ"
+  },
+  {
+    "Key": "Watford North GWFN",
+    "Value": "Watford North GWFN"
+  },
+  {
+    "Key": "Watlington GWTG",
+    "Value": "Watlington GWTG"
+  },
+  {
+    "Key": "Watton At Stone GWAS",
+    "Value": "Watton At Stone GWAS"
+  },
+  {
+    "Key": "Waun gron Park GWNG",
+    "Value": "Waun gron Park GWNG"
+  },
+  {
+    "Key": "Wavertree Technology Park GWAV",
+    "Value": "Wavertree Technology Park GWAV"
+  },
+  {
+    "Key": "Weeley GWEE",
+    "Value": "Weeley GWEE"
+  },
+  {
+    "Key": "Weeton GWET",
+    "Value": "Weeton GWET"
+  },
+  {
+    "Key": "Welham Green GWMG",
+    "Value": "Welham Green GWMG"
+  },
+  {
+    "Key": "Welling GWLI",
+    "Value": "Welling GWLI"
+  },
+  {
+    "Key": "Wellingborough GWEL",
+    "Value": "Wellingborough GWEL"
+  },
+  {
+    "Key": "Wellington GWLN",
+    "Value": "Wellington GWLN"
+  },
+  {
+    "Key": "Welshpool GWLP",
+    "Value": "Welshpool GWLP"
+  },
+  {
+    "Key": "Welwyn Garden City GWGC",
+    "Value": "Welwyn Garden City GWGC"
+  },
+  {
+    "Key": "Welwyn North GWLW",
+    "Value": "Welwyn North GWLW"
+  },
+  {
+    "Key": "Wem GWEM",
+    "Value": "Wem GWEM"
+  },
+  {
+    "Key": "Wembley Central GWMB",
+    "Value": "Wembley Central GWMB"
+  },
+  {
+    "Key": "Wembley Stadium GWCX",
+    "Value": "Wembley Stadium GWCX"
+  },
+  {
+    "Key": "Wemyss Bay GWMS",
+    "Value": "Wemyss Bay GWMS"
+  },
+  {
+    "Key": "Wendover GWND",
+    "Value": "Wendover GWND"
+  },
+  {
+    "Key": "Wennington GWNN",
+    "Value": "Wennington GWNN"
+  },
+  {
+    "Key": "West Allerton GWSA",
+    "Value": "West Allerton GWSA"
+  },
+  {
+    "Key": "West Brompton GWBP",
+    "Value": "West Brompton GWBP"
+  },
+  {
+    "Key": "West Byfleet GWBY",
+    "Value": "West Byfleet GWBY"
+  },
+  {
+    "Key": "West Calder GWCL",
+    "Value": "West Calder GWCL"
+  },
+  {
+    "Key": "West Croydon GWCY",
+    "Value": "West Croydon GWCY"
+  },
+  {
+    "Key": "West Drayton GWDT",
+    "Value": "West Drayton GWDT"
+  },
+  {
+    "Key": "West Dulwich GWDU",
+    "Value": "West Dulwich GWDU"
+  },
+  {
+    "Key": "West Ealing GWEA",
+    "Value": "West Ealing GWEA"
+  },
+  {
+    "Key": "West Ham GWEH",
+    "Value": "West Ham GWEH"
+  },
+  {
+    "Key": "West Hampstead GWHD",
+    "Value": "West Hampstead GWHD"
+  },
+  {
+    "Key": "West Hampstead Thameslink GWHP",
+    "Value": "West Hampstead Thameslink GWHP"
+  },
+  {
+    "Key": "West Horndon GWHR",
+    "Value": "West Horndon GWHR"
+  },
+  {
+    "Key": "West Kilbride GWKB",
+    "Value": "West Kilbride GWKB"
+  },
+  {
+    "Key": "West Kirby GWKI",
+    "Value": "West Kirby GWKI"
+  },
+  {
+    "Key": "West Malling GWMA",
+    "Value": "West Malling GWMA"
+  },
+  {
+    "Key": "West Norwood GWNW",
+    "Value": "West Norwood GWNW"
+  },
+  {
+    "Key": "West Ruislip GWRU",
+    "Value": "West Ruislip GWRU"
+  },
+  {
+    "Key": "West Runton GWRN",
+    "Value": "West Runton GWRN"
+  },
+  {
+    "Key": "West St Leonards GWLD",
+    "Value": "West St Leonards GWLD"
+  },
+  {
+    "Key": "West Sutton GWSU",
+    "Value": "West Sutton GWSU"
+  },
+  {
+    "Key": "West Wickham GWWI",
+    "Value": "West Wickham GWWI"
+  },
+  {
+    "Key": "West Worthing GWWO",
+    "Value": "West Worthing GWWO"
+  },
+  {
+    "Key": "Westbury GWSB",
+    "Value": "Westbury GWSB"
+  },
+  {
+    "Key": "Westcliff GWCF",
+    "Value": "Westcliff GWCF"
+  },
+  {
+    "Key": "Westcombe Park GWCB",
+    "Value": "Westcombe Park GWCB"
+  },
+  {
+    "Key": "Westenhanger GWHA",
+    "Value": "Westenhanger GWHA"
+  },
+  {
+    "Key": "Wester Hailes GWTA",
+    "Value": "Wester Hailes GWTA"
+  },
+  {
+    "Key": "Westerfield GWFI",
+    "Value": "Westerfield GWFI"
+  },
+  {
+    "Key": "Westerton GWES",
+    "Value": "Westerton GWES"
+  },
+  {
+    "Key": "Westgate On Sea GWGA",
+    "Value": "Westgate On Sea GWGA"
+  },
+  {
+    "Key": "Westhoughton GWHG",
+    "Value": "Westhoughton GWHG"
+  },
+  {
+    "Key": "Weston Milton GWNM",
+    "Value": "Weston Milton GWNM"
+  },
+  {
+    "Key": "Weston Super Mare GWSM",
+    "Value": "Weston Super Mare GWSM"
+  },
+  {
+    "Key": "Wetheral GWRL",
+    "Value": "Wetheral GWRL"
+  },
+  {
+    "Key": "Weybridge GWYB",
+    "Value": "Weybridge GWYB"
+  },
+  {
+    "Key": "Weymouth GWEY",
+    "Value": "Weymouth GWEY"
+  },
+  {
+    "Key": "Whaley Bridge GWBR",
+    "Value": "Whaley Bridge GWBR"
+  },
+  {
+    "Key": "Whalley GWHE",
+    "Value": "Whalley GWHE"
+  },
+  {
+    "Key": "Whatstandwell GWTS",
+    "Value": "Whatstandwell GWTS"
+  },
+  {
+    "Key": "Whifflet GWFF",
+    "Value": "Whifflet GWFF"
+  },
+  {
+    "Key": "Whimple GWHM",
+    "Value": "Whimple GWHM"
+  },
+  {
+    "Key": "Whinhill GWNL",
+    "Value": "Whinhill GWNL"
+  },
+  {
+    "Key": "Whiston GWHN",
+    "Value": "Whiston GWHN"
+  },
+  {
+    "Key": "Whitby GWTB",
+    "Value": "Whitby GWTB"
+  },
+  {
+    "Key": "Whitchurch Hampshire GWCH",
+    "Value": "Whitchurch Hampshire GWCH"
+  },
+  {
+    "Key": "Whitchurch Salop GWTC",
+    "Value": "Whitchurch Salop GWTC"
+  },
+  {
+    "Key": "Whitchurch South Glamorgan GWHT",
+    "Value": "Whitchurch South Glamorgan GWHT"
+  },
+  {
+    "Key": "White Hart Lane GWHL",
+    "Value": "White Hart Lane GWHL"
+  },
+  {
+    "Key": "White Notley GWNY",
+    "Value": "White Notley GWNY"
+  },
+  {
+    "Key": "Whitecraigs GWCR",
+    "Value": "Whitecraigs GWCR"
+  },
+  {
+    "Key": "Whitehaven GWTH",
+    "Value": "Whitehaven GWTH"
+  },
+  {
+    "Key": "Whitland GWTL",
+    "Value": "Whitland GWTL"
+  },
+  {
+    "Key": "Whitley Bridge GWBD",
+    "Value": "Whitley Bridge GWBD"
+  },
+  {
+    "Key": "Whitlocks End GWTE",
+    "Value": "Whitlocks End GWTE"
+  },
+  {
+    "Key": "Whitstable GWHI",
+    "Value": "Whitstable GWHI"
+  },
+  {
+    "Key": "Whittlesea GWLE",
+    "Value": "Whittlesea GWLE"
+  },
+  {
+    "Key": "Whittlesford GWLF",
+    "Value": "Whittlesford GWLF"
+  },
+  {
+    "Key": "Whitton GWTN",
+    "Value": "Whitton GWTN"
+  },
+  {
+    "Key": "Whitwell Derbys GWWL",
+    "Value": "Whitwell Derbys GWWL"
+  },
+  {
+    "Key": "Whyteleafe GWHY",
+    "Value": "Whyteleafe GWHY"
+  },
+  {
+    "Key": "Whyteleafe South GWHS",
+    "Value": "Whyteleafe South GWHS"
+  },
+  {
+    "Key": "Wick GWCK",
+    "Value": "Wick GWCK"
+  },
+  {
+    "Key": "Wickford GWIC",
+    "Value": "Wickford GWIC"
+  },
+  {
+    "Key": "Wickham Market GWCM",
+    "Value": "Wickham Market GWCM"
+  },
+  {
+    "Key": "Widdrington GWDD",
+    "Value": "Widdrington GWDD"
+  },
+  {
+    "Key": "Widnes GWID",
+    "Value": "Widnes GWID"
+  },
+  {
+    "Key": "Widney Manor GWMR",
+    "Value": "Widney Manor GWMR"
+  },
+  {
+    "Key": "Wigan North Western GWGN",
+    "Value": "Wigan North Western GWGN"
+  },
+  {
+    "Key": "Wigan Wallgate GWGW",
+    "Value": "Wigan Wallgate GWGW"
+  },
+  {
+    "Key": "Wigton GWGT",
+    "Value": "Wigton GWGT"
+  },
+  {
+    "Key": "Wildmill GWMI",
+    "Value": "Wildmill GWMI"
+  },
+  {
+    "Key": "Willesden Junction GWIJ",
+    "Value": "Willesden Junction GWIJ"
+  },
+  {
+    "Key": "Williamwood GWLM",
+    "Value": "Williamwood GWLM"
+  },
+  {
+    "Key": "Willington GWIL",
+    "Value": "Willington GWIL"
+  },
+  {
+    "Key": "Wilmcote GWMC",
+    "Value": "Wilmcote GWMC"
+  },
+  {
+    "Key": "Wilmslow GWML",
+    "Value": "Wilmslow GWML"
+  },
+  {
+    "Key": "Wilnecote GWNE",
+    "Value": "Wilnecote GWNE"
+  },
+  {
+    "Key": "Wimbledon GWIM",
+    "Value": "Wimbledon GWIM"
+  },
+  {
+    "Key": "Wimbledon Chase GWBO",
+    "Value": "Wimbledon Chase GWBO"
+  },
+  {
+    "Key": "Winchelsea GWSE",
+    "Value": "Winchelsea GWSE"
+  },
+  {
+    "Key": "Winchester GWIN",
+    "Value": "Winchester GWIN"
+  },
+  {
+    "Key": "Winchfield GWNF",
+    "Value": "Winchfield GWNF"
+  },
+  {
+    "Key": "Winchmore Hill GWIH",
+    "Value": "Winchmore Hill GWIH"
+  },
+  {
+    "Key": "Windermere GWDM",
+    "Value": "Windermere GWDM"
+  },
+  {
+    "Key": "Windsor AND Eton Central GWNC",
+    "Value": "Windsor AND Eton Central GWNC"
+  },
+  {
+    "Key": "Windsor AND Eton Riverside GWNR",
+    "Value": "Windsor AND Eton Riverside GWNR"
+  },
+  {
+    "Key": "Winnersh GWNS",
+    "Value": "Winnersh GWNS"
+  },
+  {
+    "Key": "Winnersh Triangle GWTI",
+    "Value": "Winnersh Triangle GWTI"
+  },
+  {
+    "Key": "Winsford GWSF",
+    "Value": "Winsford GWSF"
+  },
+  {
+    "Key": "Wishaw GWSH",
+    "Value": "Wishaw GWSH"
+  },
+  {
+    "Key": "Witham GWTM",
+    "Value": "Witham GWTM"
+  },
+  {
+    "Key": "Witley GWTY",
+    "Value": "Witley GWTY"
+  },
+  {
+    "Key": "Witton GWTT",
+    "Value": "Witton GWTT"
+  },
+  {
+    "Key": "Wivelsfield GWVF",
+    "Value": "Wivelsfield GWVF"
+  },
+  {
+    "Key": "Wivenhoe GWIV",
+    "Value": "Wivenhoe GWIV"
+  },
+  {
+    "Key": "Woburn Sands GWOB",
+    "Value": "Woburn Sands GWOB"
+  },
+  {
+    "Key": "Woking GWOK",
+    "Value": "Woking GWOK"
+  },
+  {
+    "Key": "Wokingham GWKM",
+    "Value": "Wokingham GWKM"
+  },
+  {
+    "Key": "Woldingham GWOH",
+    "Value": "Woldingham GWOH"
+  },
+  {
+    "Key": "Wolverhampton GWVH",
+    "Value": "Wolverhampton GWVH"
+  },
+  {
+    "Key": "Wolverton GWOL",
+    "Value": "Wolverton GWOL"
+  },
+  {
+    "Key": "Wombwell GWOM",
+    "Value": "Wombwell GWOM"
+  },
+  {
+    "Key": "Wood End GWDE",
+    "Value": "Wood End GWDE"
+  },
+  {
+    "Key": "Wood Street GWST",
+    "Value": "Wood Street GWST"
+  },
+  {
+    "Key": "Woodbridge GWDB",
+    "Value": "Woodbridge GWDB"
+  },
+  {
+    "Key": "Woodgrange Park GWGR",
+    "Value": "Woodgrange Park GWGR"
+  },
+  {
+    "Key": "Woodhall GWDL",
+    "Value": "Woodhall GWDL"
+  },
+  {
+    "Key": "Woodham Ferrers GWDF",
+    "Value": "Woodham Ferrers GWDF"
+  },
+  {
+    "Key": "Woodhouse GWDH",
+    "Value": "Woodhouse GWDH"
+  },
+  {
+    "Key": "Woodlesford GWDS",
+    "Value": "Woodlesford GWDS"
+  },
+  {
+    "Key": "Woodley GWLY",
+    "Value": "Woodley GWLY"
+  },
+  {
+    "Key": "Woodmansterne GWME",
+    "Value": "Woodmansterne GWME"
+  },
+  {
+    "Key": "Woodsmoor GWSR",
+    "Value": "Woodsmoor GWSR"
+  },
+  {
+    "Key": "Wool GWOO",
+    "Value": "Wool GWOO"
+  },
+  {
+    "Key": "Woolston GWLS",
+    "Value": "Woolston GWLS"
+  },
+  {
+    "Key": "Woolwich Arsenal GWWA",
+    "Value": "Woolwich Arsenal GWWA"
+  },
+  {
+    "Key": "Woolwich Dockyard GWWD",
+    "Value": "Woolwich Dockyard GWWD"
+  },
+  {
+    "Key": "Wootton Wawen GWWW",
+    "Value": "Wootton Wawen GWWW"
+  },
+  {
+    "Key": "Worcester Foregate Street GWOF",
+    "Value": "Worcester Foregate Street GWOF"
+  },
+  {
+    "Key": "Worcester Park GWCP",
+    "Value": "Worcester Park GWCP"
+  },
+  {
+    "Key": "Worcester Shrub Hill GWOS",
+    "Value": "Worcester Shrub Hill GWOS"
+  },
+  {
+    "Key": "Workington GWKG",
+    "Value": "Workington GWKG"
+  },
+  {
+    "Key": "Worksop GWRK",
+    "Value": "Worksop GWRK"
+  },
+  {
+    "Key": "Worle GWOR",
+    "Value": "Worle GWOR"
+  },
+  {
+    "Key": "Worplesdon GWPL",
+    "Value": "Worplesdon GWPL"
+  },
+  {
+    "Key": "Worstead GWRT",
+    "Value": "Worstead GWRT"
+  },
+  {
+    "Key": "Worthing GWRH",
+    "Value": "Worthing GWRH"
+  },
+  {
+    "Key": "Wrabness GWRB",
+    "Value": "Wrabness GWRB"
+  },
+  {
+    "Key": "Wraysbury GWRY",
+    "Value": "Wraysbury GWRY"
+  },
+  {
+    "Key": "Wrenbury GWRE",
+    "Value": "Wrenbury GWRE"
+  },
+  {
+    "Key": "Wressle GWRS",
+    "Value": "Wressle GWRS"
+  },
+  {
+    "Key": "Wrexham Central GWXC",
+    "Value": "Wrexham Central GWXC"
+  },
+  {
+    "Key": "Wrexham General GWRX",
+    "Value": "Wrexham General GWRX"
+  },
+  {
+    "Key": "Wye GWYE",
+    "Value": "Wye GWYE"
+  },
+  {
+    "Key": "Wylam GWYM",
+    "Value": "Wylam GWYM"
+  },
+  {
+    "Key": "Wylde Green GWYL",
+    "Value": "Wylde Green GWYL"
+  },
+  {
+    "Key": "Wymondham GWMD",
+    "Value": "Wymondham GWMD"
+  },
+  {
+    "Key": "Wythall GWYT",
+    "Value": "Wythall GWYT"
+  },
+  {
+    "Key": "Yalding GYAL",
+    "Value": "Yalding GYAL"
+  },
+  {
+    "Key": "Yardley Wood GYRD",
+    "Value": "Yardley Wood GYRD"
+  },
+  {
+    "Key": "Yarm GYRM",
+    "Value": "Yarm GYRM"
+  },
+  {
+    "Key": "Yate GYAE",
+    "Value": "Yate GYAE"
+  },
+  {
+    "Key": "Yatton GYAT",
+    "Value": "Yatton GYAT"
+  },
+  {
+    "Key": "Yeoford GYEO",
+    "Value": "Yeoford GYEO"
+  },
+  {
+    "Key": "Yeovil Junction GYVJ",
+    "Value": "Yeovil Junction GYVJ"
+  },
+  {
+    "Key": "Yeovil Pen Mill GYVP",
+    "Value": "Yeovil Pen Mill GYVP"
+  },
+  {
+    "Key": "Yetminster GYET",
+    "Value": "Yetminster GYET"
+  },
+  {
+    "Key": "Ynyswen GYNW",
+    "Value": "Ynyswen GYNW"
+  },
+  {
+    "Key": "Yoker GYOK",
+    "Value": "Yoker GYOK"
+  },
+  {
+    "Key": "York GYRK",
+    "Value": "York GYRK"
+  },
+  {
+    "Key": "Yorton GYRT",
+    "Value": "Yorton GYRT"
+  },
+  {
+    "Key": "Ystrad Mynach GYSM",
+    "Value": "Ystrad Mynach GYSM"
+  },
+  {
+    "Key": "Ystrad Rhondda GYSR",
+    "Value": "Ystrad Rhondda GYSR"
+  }
+]
