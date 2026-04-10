@@ -67,6 +67,10 @@
     "Key": "Limoges Benedictins FRLIG",
     "Value": "Limoges Benedictins FRLIG"
   },
+    {
+    "Key": "Malaga Maria Zambrano ESAGP",
+    "Value": "Malaga Maria Zambrano ESAGP"
+  },
   {
     "Key": "Paris CDG Airport FRCDG",
     "Value": "Paris CDG Airport FRCDG"
@@ -78,6 +82,10 @@
   {
     "Key": "Rotterdam Centraal NLQRH",
     "Value": "Rotterdam Centraal NLQRH"
+  },
+    {
+    "Key": "Seville Santa Justa ESXQA",
+    "Value": "Seville Santa Justa ESXQA"
   },
   {
     "Key": "Schiphol Airport NLAMS",
