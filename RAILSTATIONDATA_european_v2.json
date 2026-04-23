@@ -75,6 +75,10 @@
     "Key": "Limoges Benedictins FRLIG",
     "Value": "Limoges Benedictins FRLIG"
   },
+      {
+    "Key": "Livorno Centrale ITLIV",
+    "Value": "Livorno Centrale ITLIV"
+  },
     {
     "Key": "Malaga Maria Zambrano ESAGP",
     "Value": "Malaga Maria Zambrano ESAGP"
@@ -86,6 +90,10 @@
   {
     "Key": "Paris Gare du Nord FRXPG",
     "Value": "Paris Gare du Nord FRXPG"
+  },
+    {
+    "Key": "Roma Termini ITXRJ",
+    "Value": "Roma Termini ITXRJ"
   },
   {
     "Key": "Rotterdam Centraal NLQRH",
