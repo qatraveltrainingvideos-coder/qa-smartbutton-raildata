@@ -16,6 +16,10 @@
     "Value": "Barcelona Sants 71801"
   },
   {
+  "Key": "Bolzano/Bozen ITXBZ",
+  "Value": "Bolzano/Bozen ITXBZ"
+},
+  {
     "Key": "Bruges BEOST",
     "Value": "Bruges BEOST"
   },
@@ -84,6 +88,14 @@
     "Value": "Malaga Maria Zambrano ESAGP"
   },
   {
+  "Key": "Malpensa Aeroporto T2 ITMXP",
+  "Value": "Malpensa Aeroporto T2 ITMXP"
+},
+  {
+  "Key": "Milano Centrale ITXMI",
+  "Value": "Milano Centrale ITXMI"
+},
+  {
     "Key": "Paris CDG Airport FRCDG",
     "Value": "Paris CDG Airport FRCDG"
   },
@@ -111,6 +123,10 @@
     "Key": "St Pancras International GBQQS",
     "Value": "St Pancras International GBQQS"
   },
+  {
+  "Key": "Verona Porta Nuova ITXVR",
+  "Value": "Verona Porta Nuova ITXVR"
+},
   {
     "Key": "Zaragoza Delicias 04040",
     "Value": "Zaragoza Delicias 04040"
