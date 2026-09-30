@@ -1,0 +1,1940 @@
+[
+ {
+  "name": "ABERDEEN AIRPORT",
+  "address": "BURNSIDE DRIVE*OFF RIVERVIEW DRIVE*DYCE AB21 0HW",
+  "phone": "08719 846309",
+  "verified": true
+ },
+ {
+  "name": "ABERDEEN BUCKSBURN",
+  "address": "A96 INVERURIE ROAD*BUCKSBURN*ABERDEEN AB21 9LZ",
+  "phone": "08719 846118",
+  "verified": true
+ },
+ {
+  "name": "ABERDEEN CENTRAL",
+  "address": "9 BRIDGE STREET*ABERDEEN AB11 6JL",
+  "phone": "08719 846117",
+  "verified": true
+ },
+ {
+  "name": "ALDERSHOT",
+  "address": "WESTGATE HOUSE*ALEXANDRA ROAD GU11 1NY",
+  "phone": "08719 846457",
+  "verified": true
+ },
+ {
+  "name": "ALFRETON",
+  "address": "OLD SWANWICK*COLLIERY ROAD*ALFRETON DE55 1HJ",
+  "phone": "08719 846119",
+  "verified": true
+ },
+ {
+  "name": "ALTON FOUR MARKS",
+  "address": "A31*156 WINCHESTER ROAD*FOUR MARKS*ALTON*HAMPSHIRE GU34 5HZ",
+  "phone": "08719 846002",
+  "verified": true
+ },
+ {
+  "name": "ALTRINCHAM CENTRAL",
+  "address": "STAMFORD NEW ROAD ALTRINCHAM WA14 1EJ",
+  "phone": "08719 846447",
+  "verified": false
+ },
+ {
+  "name": "AMESBURY STONEHENGE",
+  "address": "A303 WESTBOUND AMESBURY SP4 7AS",
+  "phone": "08719 846218",
+  "verified": false
+ },
+ {
+  "name": "ANDOVER",
+  "address": "A303 WESTBOUND WEYHILL ANDOVER SP11 0PN",
+  "phone": "08719 846002",
+  "verified": false
+ },
+ {
+  "name": "ARUNDEL FONTWELL",
+  "address": "A27 A29 FONTWELL*NR ARUNDEL BN18 0SB",
+  "phone": "08719 846014",
+  "verified": true
+ },
+ {
+  "name": "ASHBOURNE",
+  "address": "CARNATION WAY ASHBOURNE DE6 1AY",
+  "phone": "08719 846002",
+  "verified": false
+ },
+ {
+  "name": "ASHFORD",
+  "address": "EUREKA LEISURE PARK*RUTHERFORD ROAD*ASHFORD TN25 4BN",
+  "phone": "08719 846004",
+  "verified": true
+ },
+ {
+  "name": "AYLESBURY",
+  "address": "EXCHANGE STREET AYLESBURY HP20 1AL",
+  "phone": "08719 846313",
+  "verified": false
+ },
+ {
+  "name": "AYR",
+  "address": "HIGHFIELD DRIVE AYR KA8 9SH",
+  "phone": "08719 846119",
+  "verified": false
+ },
+ {
+  "name": "BANGOR",
+  "address": "A5 A55 JUNCTION*LLYS Y GWYNT*BANGOR LL57 4BG",
+  "phone": "08719 846061",
+  "verified": true
+ },
+ {
+  "name": "BARNSLEY",
+  "address": "STAIRFOOT ROUNDABOUT*DONCASTER ROAD*BARNSLEY S70 3PE",
+  "phone": "08719 846121",
+  "verified": true
+ },
+ {
+  "name": "BARNSTAPLE",
+  "address": "WHIDDON VALLEY BARNSTAPLE EX32 8QP",
+  "phone": "08719 846005",
+  "verified": false
+ },
+ {
+  "name": "BARROW IN FURNESS",
+  "address": "WALNEY ROAD BARROW IN FURNESS LA14 5UY",
+  "phone": "08719 846003",
+  "verified": false
+ },
+ {
+  "name": "BARTON MILLS",
+  "address": "A11*FIVEWAYS ROUNDABOUT*BARTON MILLS*MILDENHALL IP28 6AE",
+  "phone": "08719 846006",
+  "verified": true
+ },
+ {
+  "name": "BASILDON",
+  "address": "FESTIVAL LEISURE PARK*FESTIVAL WAY*BASILDON SS14 3WB",
+  "phone": "08719 846008",
+  "verified": true
+ },
+ {
+  "name": "BASINGSTOKE",
+  "address": "STAG AND HOUNDS*WINCHESTER ROAD*BASINGSTOKE RG22 6HN",
+  "phone": "08719 846009",
+  "verified": true
+ },
+ {
+  "name": "BATH CENTRAL",
+  "address": "1 YORK BUILDINGS GEORGE STREET BATH BA1 2EB",
+  "phone": "08719 846219",
+  "verified": false
+ },
+ {
+  "name": "BATH WATERSIDE",
+  "address": "ROSSITER ROAD WIDCOMBE BASIN BATH BA2 4JP",
+  "phone": "08719 846220",
+  "verified": false
+ },
+ {
+  "name": "BEDFORD",
+  "address": "GOLDINGTON ROAD BEDFORD MK41 0QS",
+  "phone": "08719 846006",
+  "verified": false
+ },
+ {
+  "name": "BEDFORD MARSTON MORETAINE",
+  "address": "A421 BEANCROFT ROAD JUNCTION*MARSTON MORETAINE*BEDFORD MK43 0PZ",
+  "phone": "08719 846011",
+  "verified": true
+ },
+ {
+  "name": "BELFAST CENTRAL",
+  "address": "15 BRUNSWICK STREET BELFAST BT2 7GE",
+  "phone": "08719 846222",
+  "verified": false
+ },
+ {
+  "name": "BERWICK UPON TWEED",
+  "address": "A1 NORTHBOUND SCREMERSTON BERWICK TD15 2RB",
+  "phone": "08719 846004",
+  "verified": false
+ },
+ {
+  "name": "BICESTER CHERWELL VALLEY M40",
+  "address": "MOTO SERVICE AREA*M40 MOTORWAY*NORTHAMPTON ROAD*ARDLEY*CHERWELL VALLEY*NR BICESTER OX27 7RD",
+  "phone": "08719 846012",
+  "verified": true
+ },
+ {
+  "name": "BILLINGSHURST FIVE OAKS",
+  "address": "A29 STANE STREET*FIVE OAKS*BILLINGSHURST RH14 9AE",
+  "phone": "08719 846013",
+  "verified": true
+ },
+ {
+  "name": "BIRMINGHAM CENTRAL",
+  "address": "230 BROAD STREET*BIRMINGHAM B15 1AY",
+  "phone": "08719 846064",
+  "verified": true
+ },
+ {
+  "name": "BIRMINGHAM DUDLEY",
+  "address": "A461 DUDLEY ROAD*BRIERLEY HILL*BIRMINGHAM DY5 1LE",
+  "phone": "08719 846063",
+  "verified": true
+ },
+ {
+  "name": "BIRMINGHAM FORT DUNLOP",
+  "address": "FORT PARKWAY*ERDINGTON*BIRMINGHAM B24 9FD",
+  "phone": "08719 846312",
+  "verified": true
+ },
+ {
+  "name": "BIRMINGHAM FRANKLEY M5 SOUTHBOUND",
+  "address": "MOTO SERVICE AREA*FRANKLEY*M5 MOTORWAY B32 4AR",
+  "phone": "08719 846067",
+  "verified": true
+ },
+ {
+  "name": "BIRMINGHAM HILTON PARK M6 SOUTHBOUND",
+  "address": "MOTO SERVICE AREA*M6 MOTORWAY*ESSINGTON*NR WOLVERHAMPTON WV11 2AT",
+  "phone": "08719 846066",
+  "verified": true
+ },
+ {
+  "name": "BIRMINGHAM PERRY BARR",
+  "address": "ALDRIDGE ROAD PERRY BARR BIRMINGHAM B42 2SP",
+  "phone": "08719 846258",
+  "verified": false
+ },
+ {
+  "name": "BIRMINGHAM YARDLEY",
+  "address": "1741 COVENTRY ROAD*A45 OFF STEYNING ROAD*YARDLEY B26 1DS",
+  "phone": "08719 846065",
+  "verified": true
+ },
+ {
+  "name": "BLACKBURN M65",
+  "address": "JUNCTION 4 M65 MOTORWAY*DARWEN MOTORWAY SERVICE AREA*DARWEN BB3 0DB",
+  "phone": "08719 846122",
+  "verified": true
+ },
+ {
+  "name": "BLACKPOOL SOUTH PROMENADE",
+  "address": "OCEAN BOULEVARD SOUTH SHORE BLACKPOOL FY4 1PL",
+  "phone": "08719 846124",
+  "verified": false
+ },
+ {
+  "name": "BLYTH A1 M",
+  "address": "MOTO SERVICE AREA*A1 M HILLTOP ROUNDABOUT*BLYTH S81 8HG",
+  "phone": "03719 846123",
+  "verified": true
+ },
+ {
+  "name": "BODMIN ROCHE",
+  "address": "VICTORIA INN*VICTORIA*ROCHE*ST AUSTELL*CORNWALL PL26 8LQ",
+  "phone": "08719 846294",
+  "verified": true
+ },
+ {
+  "name": "BOSTON",
+  "address": "SCOTT DRIVE WYBERTON BOSTON PE21 7NH",
+  "phone": "08719 846587",
+  "verified": false
+ },
+ {
+  "name": "BOURNEMOUTH SEAFRONT",
+  "address": "BATH ROAD BOURNEMOUTH BH1 2NS",
+  "phone": "08719 846430",
+  "verified": false
+ },
+ {
+  "name": "BRACKNELL",
+  "address": "LONDON ROAD*BINFIELD*NR BRACKNELL RG42 4AA",
+  "phone": "08719 846015",
+  "verified": true
+ },
+ {
+  "name": "BRADFORD",
+  "address": "MID POINT*DICK LANE*THORNBURY BD3 7AY",
+  "phone": "08719 846124",
+  "verified": true
+ },
+ {
+  "name": "BRADFORD CENTRAL",
+  "address": "VALLEY ROAD BRADFORD BD1 4RW",
+  "phone": "08719 846337",
+  "verified": false
+ },
+ {
+  "name": "BRAINTREE",
+  "address": "GALLEYS CORNER BRAINTREE CM77 8EZ",
+  "phone": "08719 846006",
+  "verified": false
+ },
+ {
+  "name": "BRENTWOOD EAST HORNDON",
+  "address": "A127 EAST HORNDON*EAST HORNDON CM13 3LL",
+  "phone": "08719 846016",
+  "verified": true
+ },
+ {
+  "name": "BRIGHTON",
+  "address": "165 167 PRESTON ROAD*BRIGHTON*EAST SUSSEX BN1 6AU",
+  "phone": "08719 846017",
+  "verified": true
+ },
+ {
+  "name": "BRISTOL CENTRAL",
+  "address": "ANCHOR ROAD A4 BRISTOL BS1 5TT",
+  "phone": "08719 846223",
+  "verified": false
+ },
+ {
+  "name": "BRISTOL SEVERN VIEW M48",
+  "address": "MOTO SERVICE AREA*M48 MOTORWAY*AUST BS35 4BH",
+  "phone": "08719 846052",
+  "verified": true
+ },
+ {
+  "name": "BROMSGROVE",
+  "address": "2 FINSTALL ROAD*ASTON FIELDS B60 2DZ",
+  "phone": "08719 846625",
+  "verified": true
+ },
+ {
+  "name": "BROMSGROVE MARLBROOK",
+  "address": "204 BIRMINGHAM ROAD BROMSGROVE B61 0HB",
+  "phone": "08719 846011",
+  "verified": false
+ },
+ {
+  "name": "BUCKINGHAM",
+  "address": "A421 A413 BUCKINGHAM MK18 1SH",
+  "phone": "08719 846009",
+  "verified": false
+ },
+ {
+  "name": "BURNLEY",
+  "address": "A671 A679*CAVALRY BARRACKS*BARRACKS ROAD BB11 4SB",
+  "phone": "08719 846125",
+  "verified": true
+ },
+ {
+  "name": "BURTON A38 NORTHBOUND",
+  "address": "A38 NORTHBOUND*BARTON UNDER NEEDWOOD*BURTON UPON TRENT DE13 8EH",
+  "phone": "08719 846069",
+  "verified": true
+ },
+ {
+  "name": "BURTON A38 SOUTHBOUND",
+  "address": "A38 GRAYCAR BUSINESS PARK*BARTON UNDER NEEDWOOD*BURTON UPON TRENT DE13 8EH",
+  "phone": "08719 846068",
+  "verified": true
+ },
+ {
+  "name": "BURTON M6 NORTHBOUND",
+  "address": "MOTO SERVICE AREA*M6 MOTORWAY*BURTON*CARNFORTH LA6 1JF",
+  "phone": "08719 846126",
+  "verified": true
+ },
+ {
+  "name": "BURTON UPON TRENT CENTRAL",
+  "address": "SECOND AVENUE BURTON UPON TRENT DE14 2WF",
+  "phone": "08719 846311",
+  "verified": false
+ },
+ {
+  "name": "BURY",
+  "address": "LITTLE 66*ROUTE 66 LEISURE PARK*PILSWORTH ROAD*BURY BL9 8RN",
+  "phone": "08719 846302",
+  "verified": true
+ },
+ {
+  "name": "CAERNARFON",
+  "address": "VICTORIA DOCK CAERNARFON LL55 1SR",
+  "phone": "08719 846425",
+  "verified": false
+ },
+ {
+  "name": "CAMBRIDGE FOURWENTWAYS",
+  "address": "A11 FOURWENTWAYS*ABINGTON CB21 6AP",
+  "phone": "08719 846019",
+  "verified": true
+ },
+ {
+  "name": "CAMBRIDGE SWAVESEY",
+  "address": "HUNTINGDON ROAD A14*SWAVESEY CB24 4RE",
+  "phone": "08719 846021",
+  "verified": true
+ },
+ {
+  "name": "CANTERBURY WHITSTABLE",
+  "address": "A299 THANET WAY*FAVERSHAM*KENT ME13 9EL",
+  "phone": "08719 846022",
+  "verified": true
+ },
+ {
+  "name": "CARDIFF CENTRAL",
+  "address": "NEW SANDYWAY HOUSE ST MARY STREET CF10 1DX",
+  "phone": "08719 846225",
+  "verified": false
+ },
+ {
+  "name": "CARDIFF WHITCHURCH",
+  "address": "21 TYN Y PARC ROAD CARDIFF CF14 6BH",
+  "phone": "08715 591811",
+  "verified": false
+ },
+ {
+  "name": "CARLISLE M6",
+  "address": "MOTO SERVICE AREA SOUTHWAITE*M6 MOTORWAY*BROADFIELD ROAD CA4 0NS",
+  "phone": "08719 846128",
+  "verified": true
+ },
+ {
+  "name": "CARLISLE TODHILLS",
+  "address": "M6 SOUTHBOUND*TODHILLS*CUMBRIA CA6 4HA",
+  "phone": "08719 846127",
+  "verified": true
+ },
+ {
+  "name": "CHELTENHAM",
+  "address": "GOLDEN VALLEY CHELTENHAM GL51 0EX",
+  "phone": "08719 846231",
+  "verified": false
+ },
+ {
+  "name": "CHESTERFIELD",
+  "address": "A61 BRIMINGTON ROAD NORTH*WHITTINGTON MOOR*CHESTERFIELD S41 9BE",
+  "phone": "08719 846129",
+  "verified": true
+ },
+ {
+  "name": "CHICHESTER CENTRAL",
+  "address": "CHAPEL STREET CHICHESTER PO19 1DL",
+  "phone": "08719 846461",
+  "verified": false
+ },
+ {
+  "name": "CHIPPENHAM",
+  "address": "A350 CEPEN WAY CHIPPENHAM SN14 6UZ",
+  "phone": "08719 846015",
+  "verified": false
+ },
+ {
+  "name": "CHRISTCHURCH",
+  "address": "STONY LANE CHRISTCHURCH BH23 1EX",
+  "phone": "08719 846016",
+  "verified": false
+ },
+ {
+  "name": "CIRENCESTER",
+  "address": "HARE BUSHES BURFORD ROAD GL7 5DS",
+  "phone": "08719 846017",
+  "verified": false
+ },
+ {
+  "name": "COLCHESTER FEERING",
+  "address": "A12 LONDON ROAD NORTHBOUND*FEERING*COLCHESTER CO5 9EL",
+  "phone": "08719 846029",
+  "verified": true
+ },
+ {
+  "name": "CREWE",
+  "address": "BESWICK DRIVE*CREWE CW1 5NP",
+  "phone": "08719 846296",
+  "verified": true
+ },
+ {
+  "name": "CREWE BARTHOMLEY",
+  "address": "JUNCTION 16*M6 A500*ALSAGER ROAD*BARTHOMLEY CW2 5PT",
+  "phone": "08719 846071",
+  "verified": true
+ },
+ {
+  "name": "DARLINGTON",
+  "address": "YARM ROAD DARLINGTON DL1 4WF",
+  "phone": "08719 846022",
+  "verified": false
+ },
+ {
+  "name": "DARTFORD",
+  "address": "CHARLES STREET*OFF CROSSWAYS BOULEVARD*DARTFORD DA9 9AP",
+  "phone": "08719 846025",
+  "verified": true
+ },
+ {
+  "name": "DERBY CRICKET GROUND",
+  "address": "NOTTINGHAM ROAD DERBY DE21 6DA",
+  "phone": "08719 846325",
+  "verified": false
+ },
+ {
+  "name": "DEVIZES",
+  "address": "LONDON ROAD DEVIZES SN10 2EP",
+  "phone": "08719 846327",
+  "verified": false
+ },
+ {
+  "name": "DONCASTER",
+  "address": "A1 GREAT NORTH ROAD*CARCROFT*DONCASTER DN6 8LR",
+  "phone": "08719 846131",
+  "verified": true
+ },
+ {
+  "name": "DONCASTER M18 M180",
+  "address": "INTERCHANGE PARK THORNE DONCASTER DN8 5TX",
+  "phone": "08719 846038",
+  "verified": false
+ },
+ {
+  "name": "DORKING",
+  "address": "A25 REIGATE ROAD*DORKING*SURREY RH4 1QB",
+  "phone": "08719 846026",
+  "verified": true
+ },
+ {
+  "name": "DOVER",
+  "address": "ST JAMES RETAIL PARK DOVER CT16 1QD",
+  "phone": "08719 846503",
+  "verified": false
+ },
+ {
+  "name": "DROITWICH",
+  "address": "RASHWOOD HILL DROITWICH WR9 0BN",
+  "phone": "08719 846026",
+  "verified": false
+ },
+ {
+  "name": "DUBLIN CITY CENTRE RATHMINES",
+  "address": "LOWER RATHMINES ROAD*DUBLIN 6*IE",
+  "phone": "03531 4911402",
+  "verified": true
+ },
+ {
+  "name": "DUDLEY TOWN CENTRE",
+  "address": "DISCOVERY WAY DUDLEY DY1 4RN",
+  "phone": "08719 846465",
+  "verified": false
+ },
+ {
+  "name": "DUMBARTON",
+  "address": "A82 STIRLING ROAD*MILTON*DUMBARTON*NR GLASGOW G82 2TZ",
+  "phone": "08719 846133",
+  "verified": true
+ },
+ {
+  "name": "DUMFRIES",
+  "address": "A75*ANNAN ROAD*COLLIN*DUMFRIES AND GALLOWAY DG1 3SE",
+  "phone": "08719 846134",
+  "verified": true
+ },
+ {
+  "name": "DUNDEE CENTRAL",
+  "address": "152 158 WEST MARKETGAIT*DUNDEE*SCOTLAND DD1 1NJ",
+  "phone": "08719 846301",
+  "verified": true
+ },
+ {
+  "name": "DUNDEE STRATHMORE AVENUE",
+  "address": "STRATHMORE AVENUE DUNDEE DD3 6SH",
+  "phone": "08719 846329",
+  "verified": false
+ },
+ {
+  "name": "DUNFERMLINE",
+  "address": "KINGSEAT ROAD*HALBEATH JUNCTION*HALBEATH*DUNFERMLINE KY11 8RY",
+  "phone": "08719 846287",
+  "verified": true
+ },
+ {
+  "name": "DURHAM",
+  "address": "STATION LANE*GILESGATE*DURHAM DH1 1LJ",
+  "phone": "08719 846136",
+  "verified": true
+ },
+ {
+  "name": "EDINBURGH CENTRAL",
+  "address": "33 ST MARYS STREET*EDINBURGH EH1 1TA",
+  "phone": "08719 846137",
+  "verified": true
+ },
+ {
+  "name": "EDINBURGH CENTRAL QUEEN STREET",
+  "address": "36 37 QUEEN STREET EDINBURGH EH2 3NH",
+  "phone": "08719 846419",
+  "verified": false
+ },
+ {
+  "name": "EDINBURGH CENTRAL ROSE STREET",
+  "address": "MEUSE LANE EDINBURGH EH2 2BY",
+  "phone": "08719 846421",
+  "verified": false
+ },
+ {
+  "name": "EDINBURGH CENTRAL WATERLOO PLACE",
+  "address": "WATERLOO PLACE EDINBURGH EH1 3BG",
+  "phone": "08719 846431",
+  "verified": false
+ },
+ {
+  "name": "EDINBURGH DREGHORN",
+  "address": "46 DREGHORN LINK*A720 CITY BYPASS*EDINBURGH EH13 9QR",
+  "phone": "08719 846139",
+  "verified": true
+ },
+ {
+  "name": "EDINBURGH HAYMARKET",
+  "address": "24 EGLINGTON CRESCENT EDINBURGH EH12 5BY",
+  "phone": "08719 846333",
+  "verified": false
+ },
+ {
+  "name": "EDINBURGH PARK",
+  "address": "1 CULTINS ROAD EDINBURGH EH11 4DF",
+  "phone": "08719 846433",
+  "verified": false
+ },
+ {
+  "name": "ELY",
+  "address": "A10 A142 ROUNDABOUT*WITCHFORD ROAD*ELY CB6 3NN",
+  "phone": "08719 846028",
+  "verified": true
+ },
+ {
+  "name": "EXETER M5",
+  "address": "MOTO SERVICE AREA M5 JUNCTION 30 EX2 7HF",
+  "phone": "08719 846137",
+  "verified": false
+ },
+ {
+  "name": "FARNBOROUGH CENTRAL",
+  "address": "VICTORIA ROAD FARNBOROUGH GU14 7PH",
+  "phone": "08719 846345",
+  "verified": false
+ },
+ {
+  "name": "FORT WILLIAM",
+  "address": "HIGH STREET*FORT WILLIAM*HIGHLANDS PH33 6DX",
+  "phone": "08719 846419",
+  "verified": true
+ },
+ {
+  "name": "FRIMLEY",
+  "address": "PORTSMOUTH ROAD FRIMLEY GU16 7AU",
+  "phone": "08719 846047",
+  "verified": false
+ },
+ {
+  "name": "GAINSBOROUGH",
+  "address": "THE FRONTIER NORTH STREET DN21 2HP",
+  "phone": "08719 846533",
+  "verified": false
+ },
+ {
+  "name": "GATWICK AIRPORT CENTRAL",
+  "address": "POVEY CROSS ROAD HORLEY RH6 0BE",
+  "phone": "08719 846243",
+  "verified": false
+ },
+ {
+  "name": "GLASGOW AIRPORT",
+  "address": "MARCHBURN DRIVE*GLASGOW AIRPORT BUSINESS PARK*PAISLEY PA3 2SJ",
+  "phone": "08719 846335",
+  "verified": true
+ },
+ {
+  "name": "GLASGOW BRAEHEAD",
+  "address": "KINGS INCH ROAD RENFREW G51 4BN",
+  "phone": "08719 846347",
+  "verified": false
+ },
+ {
+  "name": "GLASGOW CENTRAL",
+  "address": "5 11 HILL STREET*GLASGOW G3 6RP",
+  "phone": "08719 846141",
+  "verified": true
+ },
+ {
+  "name": "GLASGOW PAISLEY ROAD",
+  "address": "251 PAISLEY ROAD*GLASGOW G5 8RA",
+  "phone": "08719 846142",
+  "verified": true
+ },
+ {
+  "name": "GLASTONBURY",
+  "address": "MAGDALENE STREET GLASTONBURY BA6 9EJ",
+  "phone": "08719 846351",
+  "verified": false
+ },
+ {
+  "name": "GLOUCESTER",
+  "address": "ST ANN WAY GLOUCESTER GL1 5SF",
+  "phone": "08719 846435",
+  "verified": false
+ },
+ {
+  "name": "GRANTHAM A1",
+  "address": "MOTO SERVICE AREA A1 SOUTHBOUND NG33 5LL",
+  "phone": "08719 846142",
+  "verified": false
+ },
+ {
+  "name": "GREAT YARMOUTH",
+  "address": "SIDEGATE ROAD HOPTON ON SEA NR31 9AL",
+  "phone": "08719 846052",
+  "verified": false
+ },
+ {
+  "name": "GREAT YARMOUTH ACLE",
+  "address": "A47 ROUNDABOUT*ACLE BYPASS*ACLE NR13 3BE",
+  "phone": "08719 846032",
+  "verified": true
+ },
+ {
+  "name": "GUILDFORD",
+  "address": "WOODBRIDGE MEADOWS*GUILDFORD GU1 1BD",
+  "phone": "08719 846295",
+  "verified": true
+ },
+ {
+  "name": "HALIFAX",
+  "address": "BROAD STREET PLAZA HALIFAX HX1 1YA",
+  "phone": "08719 846439",
+  "verified": false
+ },
+ {
+  "name": "HARLOW",
+  "address": "ELIZABETH WAY HARLOW CM20 2AB",
+  "phone": "08719 846055",
+  "verified": false
+ },
+ {
+  "name": "HARROGATE",
+  "address": "TOWER STREET HARROGATE HG1 1HS",
+  "phone": "08719 846283",
+  "verified": false
+ },
+ {
+  "name": "HARROGATE WEST PARK",
+  "address": "WEST PARK HARROGATE HG1 1BL",
+  "phone": "08719 846441",
+  "verified": false
+ },
+ {
+  "name": "HARTLEPOOL MARINA",
+  "address": "METROPOLITAN PARK*THE LANYARD*HARTLEPOOL TS24 0XS",
+  "phone": "08719 846504",
+  "verified": true
+ },
+ {
+  "name": "HASTINGS",
+  "address": "BOHEMIA ROAD*HASTINGS TN34 1ET",
+  "phone": "08719 846310",
+  "verified": true
+ },
+ {
+  "name": "HATFIELD CENTRAL",
+  "address": "ST ALBANS ROAD EAST HATFIELD AL10 0EH",
+  "phone": "08719 846353",
+  "verified": false
+ },
+ {
+  "name": "HAVANT ROWLANDS CASTLE",
+  "address": "1 WHICHERS GATE ROAD*ROWLANDS CASTLE*PORTSMOUTH PO9 6BB",
+  "phone": "08715 591842",
+  "verified": true
+ },
+ {
+  "name": "HEATHROW HESTON M4 WESTBOUND",
+  "address": "MOTO SERVICE AREA*M4 MOTORWAY*HESTON TW5 9NB",
+  "phone": "08719 846261",
+  "verified": true
+ },
+ {
+  "name": "HEMEL HEMPSTEAD",
+  "address": "GATEWAY BREAKSPEAR WAY HP2 4UA",
+  "phone": "08719 846059",
+  "verified": false
+ },
+ {
+  "name": "HEREFORD",
+  "address": "GRAFTON HEREFORD HR2 8BN",
+  "phone": "08719 846060",
+  "verified": false
+ },
+ {
+  "name": "HIGH WYCOMBE CENTRAL",
+  "address": "ST MARY STREET HIGH WYCOMBE HP11 2BZ",
+  "phone": "08719 846355",
+  "verified": false
+ },
+ {
+  "name": "HOLYHEAD",
+  "address": "KINGSLAND ROAD HOLYHEAD LL65 2HY",
+  "phone": "08719 846357",
+  "verified": false
+ },
+ {
+  "name": "HUDDERSFIELD",
+  "address": "LEEDS ROAD HUDDERSFIELD HD1 6NW",
+  "phone": "08719 846065",
+  "verified": false
+ },
+ {
+  "name": "HULL CENTRAL",
+  "address": "PRYME STREET HULL HU2 8HR",
+  "phone": "08719 846471",
+  "verified": false
+ },
+ {
+  "name": "HUNTINGDON FENSTANTON",
+  "address": "A14 EASTBOUND FENSTANTON PE28 9JB",
+  "phone": "08719 846066",
+  "verified": false
+ },
+ {
+  "name": "ILMINSTER",
+  "address": "A303 A358 SOUTHFIELDS ROUNDABOUT TA19 9PT",
+  "phone": "08719 846067",
+  "verified": false
+ },
+ {
+  "name": "INVERNESS",
+  "address": "STONYFIELD A96 INVERNESS ROAD INVERNESS IV2 7PA",
+  "phone": "08719 846148",
+  "verified": false
+ },
+ {
+  "name": "INVERNESS CITY CENTRE",
+  "address": "BALLANTYNE HOUSE 84 ACADEMY STREET INVERNESSIV1 1LU",
+  "phone": "08719 846519",
+  "verified": false
+ },
+ {
+  "name": "INVERNESS FAIRWAYS",
+  "address": "FAIRWAYS BUSINESS PARK SLACKBUIE AVENUE INVERNESS IV2 6AA",
+  "phone": "08719 846285",
+  "verified": false
+ },
+ {
+  "name": "IPSWICH",
+  "address": "A12 A14 INTERCHANGE CAPEL ST MARY IP9 2JP",
+  "phone": "08719 846068",
+  "verified": false
+ },
+ {
+  "name": "IPSWICH CENTRAL",
+  "address": "DUKE STREET IPSWICH IP3 0AE",
+  "phone": "08719 846353",
+  "verified": false
+ },
+ {
+  "name": "KENDAL",
+  "address": "A591 PUNGUM KENDAL LA8 8AA",
+  "phone": "08719 846069",
+  "verified": false
+ },
+ {
+  "name": "KETTERING",
+  "address": "A14 WESTBOUND KETTERING NN14 1RW",
+  "phone": "08719 846070",
+  "verified": false
+ },
+ {
+  "name": "KETTERING THRAPSTON",
+  "address": "JUNCTION 13*A14 EASTBOUND*THRAPSTON BYPASS*THRAPSTON NN14 4UR",
+  "phone": "08719 846111",
+  "verified": true
+ },
+ {
+  "name": "KIDDERMINSTER",
+  "address": "PARK BUTTS RINGWAY KIDDERMINSTER DY10 1AU",
+  "phone": "08719 846451",
+  "verified": false
+ },
+ {
+  "name": "KINGS LYNN",
+  "address": "A47 A10 INTERCHANGE KINGS LYNN PE30 4NB",
+  "phone": "08719 846073",
+  "verified": false
+ },
+ {
+  "name": "KINGS LYNN LONG SUTTON",
+  "address": "A17 A1101 LONG SUTTON PE12 9AF",
+  "phone": "08719 846074",
+  "verified": false
+ },
+ {
+  "name": "KNUTSFORD M6",
+  "address": "MOTO SERVICE AREA M6 JUNCTION 19 WA16 0TL",
+  "phone": "08719 846148",
+  "verified": false
+ },
+ {
+  "name": "LANCASTER M6",
+  "address": "MOTO SERVICE AREA M6 FORTON LA2 9DU",
+  "phone": "08719 846149",
+  "verified": false
+ },
+ {
+  "name": "LANGLEY",
+  "address": "399 LONDON ROAD*LANGLEY*SLOUGH SL3 8PS",
+  "phone": "08715 591844",
+  "verified": true
+ },
+ {
+  "name": "LEATHERHEAD",
+  "address": "OXSHOTT ROAD LEATHERHEAD KT22 0EF",
+  "phone": "08719 846075",
+  "verified": false
+ },
+ {
+  "name": "LEEDS BRADFORD AIRPORT",
+  "address": "WHITEHOUSE LANE YEADON LEEDS LS19 7TZ",
+  "phone": "08719 846247",
+  "verified": false
+ },
+ {
+  "name": "LEEDS CENTRAL",
+  "address": "VICAR LANE LEEDS LS2 7NL",
+  "phone": "08719 846288",
+  "verified": false
+ },
+ {
+  "name": "LEEDS COLTON",
+  "address": "SELBY ROAD COLTON LEEDS LS15 9JB",
+  "phone": "08719 846076",
+  "verified": false
+ },
+ {
+  "name": "LEICESTER CENTRAL",
+  "address": "HUMBERSTONE GATE LEICESTER LE1 1WA",
+  "phone": "08719 846248",
+  "verified": false
+ },
+ {
+  "name": "LEICESTER HINCKLEY ROAD",
+  "address": "A47 HINCKLEY ROAD LEICESTER LE9 9JE",
+  "phone": "08719 846061",
+  "verified": false
+ },
+ {
+  "name": "LEICESTER MARKFIELD",
+  "address": "A50 LITTLE SHAW LANE MARKFIELD LE67 9PP",
+  "phone": "08719 846077",
+  "verified": false
+ },
+ {
+  "name": "LINCOLN CITY CENTRE",
+  "address": "BRAYFORD WHARF NORTH LINCOLN LN1 1YW",
+  "phone": "08719 846457",
+  "verified": false
+ },
+ {
+  "name": "LINCOLN THORPE ON THE HILL",
+  "address": "A46 A1 WESTERN BYPASS LN6 9AJ",
+  "phone": "08719 846080",
+  "verified": false
+ },
+ {
+  "name": "LIVERPOOL CENTRAL",
+  "address": "OLD HAYMARKET LIVERPOOL L1 6ER",
+  "phone": "08719 846152",
+  "verified": false
+ },
+ {
+  "name": "LIVERPOOL CENTRAL EXCHANGE STREET",
+  "address": "38 EXCHANGE STREET EAST*LIVERPOOL L2 3PS",
+  "phone": "08715 591849",
+  "verified": true
+ },
+ {
+  "name": "LIVERPOOL CENTRAL THE STRAND",
+  "address": "THE STRAND LIVERPOOL L2 0PP",
+  "phone": "08719 846367",
+  "verified": false
+ },
+ {
+  "name": "LIVERPOOL STONEDALE PARK",
+  "address": "STONEDALE PARK EAST LANCS ROAD L11 9BA",
+  "phone": "08719 846084",
+  "verified": false
+ },
+ {
+  "name": "LLANDUDNO",
+  "address": "GLAN Y MOR PARADE LLANDUDNO LL30 2LL",
+  "phone": "08719 846461",
+  "verified": false
+ },
+ {
+  "name": "LLANELLI CENTRAL",
+  "address": "STEPNEY PLACE LLANELLI SA15 1BA",
+  "phone": "08719 846369",
+  "verified": false
+ },
+ {
+  "name": "LONDON BETHNAL GREEN",
+  "address": "231 237 CAMBRIDGE HEATH ROAD WEST*LONDON E2 0EL",
+  "phone": "08719 846461",
+  "verified": true
+ },
+ {
+  "name": "LONDON CENTRAL CITY ROAD",
+  "address": "1 23 CITY ROAD LONDON EC1Y 1AE",
+  "phone": "08719 846314",
+  "verified": false
+ },
+ {
+  "name": "LONDON CENTRAL EUSTON",
+  "address": "1 11 GRAFTON PLACE LONDON NW1 1DJ",
+  "phone": "08719 846328",
+  "verified": false
+ },
+ {
+  "name": "LONDON CENTRAL KINGS CROSS",
+  "address": "YORK WAY KINGS CROSS N1 9AA",
+  "phone": "08719 846272",
+  "verified": false
+ },
+ {
+  "name": "LONDON CENTRAL MARYLEBONE",
+  "address": "HAREWOOD ROW MARYLEBONE NW1 6SE",
+  "phone": "08719 846369",
+  "verified": false
+ },
+ {
+  "name": "LONDON CENTRAL SOUTHWARK",
+  "address": "UNION STREET SOUTHWARK SE1 0NX",
+  "phone": "08719 846371",
+  "verified": false
+ },
+ {
+  "name": "LONDON CITY AIRPORT",
+  "address": "1 CONNAUGHT ROAD*LONDON E16 2DB",
+  "phone": "08719 846290",
+  "verified": true
+ },
+ {
+  "name": "LONDON CLAPHAM JUNCTION",
+  "address": "155 FALCON ROAD*CLAPHAM*LONDON SW11 2PD",
+  "phone": "08719 846370",
+  "verified": true
+ },
+ {
+  "name": "LONDON DOCKLANDS",
+  "address": "CORIANDER AVENUE EAST INDIA DOCK E14 2AA",
+  "phone": "08719 846085",
+  "verified": false
+ },
+ {
+  "name": "LONDON EALING",
+  "address": "UXBRIDGE ROAD EALING W5 2RF",
+  "phone": "08719 846375",
+  "verified": false
+ },
+ {
+  "name": "LONDON EXCEL",
+  "address": "EXCEL WESTERN GATEWAY E16 1AL",
+  "phone": "08719 846294",
+  "verified": false
+ },
+ {
+  "name": "LONDON FULHAM",
+  "address": "NORTH END ROAD FULHAM SW6 1LY",
+  "phone": "08719 846377",
+  "verified": false
+ },
+ {
+  "name": "LONDON GREENWICH",
+  "address": "BLACKHEATH ROAD GREENWICH SE10 8DA",
+  "phone": "08719 846379",
+  "verified": false
+ },
+ {
+  "name": "LONDON HACKNEY",
+  "address": "AMHURST ROAD HACKNEY E8 1LL",
+  "phone": "08719 846381",
+  "verified": false
+ },
+ {
+  "name": "LONDON HOUNSLOW",
+  "address": "LAMPTON ROAD*HOUNSLOW*LONDON TW3 1JG",
+  "phone": "08715 591859",
+  "verified": true
+ },
+ {
+  "name": "LONDON ILFORD",
+  "address": "CLEMENTS ROAD ILFORD IG1 1BA",
+  "phone": "08719 846385",
+  "verified": false
+ },
+ {
+  "name": "LONDON KINGS CROSS ROYAL SCOT",
+  "address": "100 KINGS CROSS ROAD WC1X 9DT",
+  "phone": "08719 846272",
+  "verified": false
+ },
+ {
+  "name": "LONDON LEWISHAM",
+  "address": "LEWISHAM HIGH STREET SE13 5AA",
+  "phone": "08719 846543",
+  "verified": false
+ },
+ {
+  "name": "LONDON LIVERPOOL STREET",
+  "address": "1 22 SOUTH PLACE EC2M 2AQ",
+  "phone": "08719 846389",
+  "verified": false
+ },
+ {
+  "name": "LONDON PARK ROYAL",
+  "address": "LAKESIDE DRIVE PARK ROYAL NW10 7HQ",
+  "phone": "08719 846393",
+  "verified": false
+ },
+ {
+  "name": "LONDON RICHMOND CENTRAL",
+  "address": "LOWER MORTLAKE ROAD RICHMOND TW9 2LL",
+  "phone": "08719 846397",
+  "verified": false
+ },
+ {
+  "name": "LONDON SNARESBROOK",
+  "address": "73 HOLLYBUSH HILL*SNARESBROOK*LONDON E11 1PE",
+  "phone": "08715 591845",
+  "verified": true
+ },
+ {
+  "name": "LONDON SOUTH CROYDON",
+  "address": "415 BRIGHTON ROAD*SOUTH CROYDON*SURREY CR2 6EJ",
+  "phone": "08715 591846",
+  "verified": true
+ },
+ {
+  "name": "LONDON SOUTHGATE",
+  "address": "THE MALL*SOUTHGATE*LONDON N14 6EN",
+  "phone": "08715 591847",
+  "verified": true
+ },
+ {
+  "name": "LONDON STRATFORD",
+  "address": "HIGH STREET STRATFORD E15 2NE",
+  "phone": "08719 846399",
+  "verified": false
+ },
+ {
+  "name": "LONDON VAUXHALL",
+  "address": "3 BONDWAY*VAUXHALL*LONDON SW8 1SJ",
+  "phone": "08715 591860",
+  "verified": true
+ },
+ {
+  "name": "LONDON WEMBLEY HIGH ROAD",
+  "address": "HIGH ROAD WEMBLEY HA9 7AJ",
+  "phone": "08719 846409",
+  "verified": false
+ },
+ {
+  "name": "LOUGHBOROUGH CENTRAL",
+  "address": "PINFOLD GATE LOUGHBOROUGH LE11 1BE",
+  "phone": "08719 846463",
+  "verified": false
+ },
+ {
+  "name": "LOWESTOFT",
+  "address": "LEISURE WAY LOWESTOFT NR32 4TZ",
+  "phone": "08719 846087",
+  "verified": false
+ },
+ {
+  "name": "LUDLOW",
+  "address": "A49 LUDLOW BYPASS WOOFFERTON SY8 4AL",
+  "phone": "08719 846088",
+  "verified": false
+ },
+ {
+  "name": "LUTON",
+  "address": "641 DUNSTABLE ROAD LUTON LU4 8RQ",
+  "phone": "08719 846089",
+  "verified": false
+ },
+ {
+  "name": "LUTTERWORTH",
+  "address": "RUGBY ROAD*LUTTERWORTH LE17 4BP",
+  "phone": "08719 846182",
+  "verified": true
+ },
+ {
+  "name": "LYTHAM ST ANNES",
+  "address": "9 11 SOUTH WESTBY STREET FY8 5JE",
+  "phone": "08719 846467",
+  "verified": false
+ },
+ {
+  "name": "MACCLESFIELD CENTRAL",
+  "address": "GAS ROAD MACCLESFIELD SK11 6DP",
+  "phone": "08719 846373",
+  "verified": false
+ },
+ {
+  "name": "MAIDENHEAD CENTRAL",
+  "address": "KING STREET MAIDENHEAD SL6 1EB",
+  "phone": "08719 846375",
+  "verified": false
+ },
+ {
+  "name": "MAIDSTONE CENTRAL",
+  "address": "SANDLING ROAD MAIDSTONE ME14 2RF",
+  "phone": "08719 846377",
+  "verified": false
+ },
+ {
+  "name": "MANCHESTER ANCOATS",
+  "address": "GREAT ANCOATS STREET M4 5AZ",
+  "phone": "08719 846379",
+  "verified": false
+ },
+ {
+  "name": "MANCHESTER CENTRAL",
+  "address": "BLACKFRIARS STREET M3 5AL",
+  "phone": "08719 846159",
+  "verified": false
+ },
+ {
+  "name": "MANCHESTER CENTRAL ARENA",
+  "address": "GREAT DUCIE STREET M3 1RR",
+  "phone": "08719 846469",
+  "verified": false
+ },
+ {
+  "name": "MANCHESTER DIDSBURY",
+  "address": "WILMSLOW ROAD DIDSBURY M20 5PG",
+  "phone": "08719 846381",
+  "verified": false
+ },
+ {
+  "name": "MANCHESTER PICCADILLY",
+  "address": "PICCADILLY GARDENS M1 1LY",
+  "phone": "08719 846383",
+  "verified": false
+ },
+ {
+  "name": "MANCHESTER SALFORD QUAYS",
+  "address": "CAPITAL QUAY SALFORD QUAYS M50 3WL",
+  "phone": "08719 846385",
+  "verified": false
+ },
+ {
+  "name": "MANCHESTER SPORTCITY",
+  "address": "BIRCH STREET*OFF HYDE ROAD*WEST GORTON HYDE M12 5NT",
+  "phone": "08719 846293",
+  "verified": true
+ },
+ {
+  "name": "MANCHESTER TRAFFORD PARK",
+  "address": "TRAFFORD PARK MANCHESTER M17 1QA",
+  "phone": "08719 846389",
+  "verified": false
+ },
+ {
+  "name": "MANSFIELD",
+  "address": "MANSFIELD ROAD*SUTTON IN ASHFIELD NG17 4HG",
+  "phone": "08719 846140",
+  "verified": true
+ },
+ {
+  "name": "MARKET HARBOROUGH",
+  "address": "A6 NORTHBOUND MARKET HARBOROUGH LE16 7PT",
+  "phone": "08719 846093",
+  "verified": false
+ },
+ {
+  "name": "MERTHYR TYDFIL",
+  "address": "MERTHYR TYDFIL LEISURE VILLAGE CF48 1UT",
+  "phone": "08719 846397",
+  "verified": false
+ },
+ {
+  "name": "MIDDLESBROUGH",
+  "address": "NEWPORT ROAD MIDDLESBROUGH TS1 5AS",
+  "phone": "08719 846399",
+  "verified": false
+ },
+ {
+  "name": "MILTON KEYNES CENTRAL",
+  "address": "LOWER FOURTH STREET MK9 1LR",
+  "phone": "08719 846303",
+  "verified": false
+ },
+ {
+  "name": "MILTON KEYNES OLD STRATFORD",
+  "address": "A5 OLD STRATFORD ROUNDABOUT MK19 6AQ",
+  "phone": "08719 846077",
+  "verified": false
+ },
+ {
+  "name": "MORECAMBE",
+  "address": "MARINE ROAD EAST MORECAMBE LA4 6AB",
+  "phone": "08719 846112",
+  "verified": false
+ },
+ {
+  "name": "NEWBURY LONDON ROAD",
+  "address": "LONDON ROAD NEWBURY RG14 2BP",
+  "phone": "08719 846096",
+  "verified": false
+ },
+ {
+  "name": "NEWBURY TOT HILL",
+  "address": "A34 NORTHBOUND TOT HILL RG20 9ED",
+  "phone": "08719 846097",
+  "verified": false
+ },
+ {
+  "name": "NEWCASTLE AIRPORT",
+  "address": "CALLERTON LANE NEWCASTLE NE13 8DF",
+  "phone": "08719 846401",
+  "verified": false
+ },
+ {
+  "name": "NEWCASTLE CENTRAL",
+  "address": "FOSTER STREET NEWCASTLE NE1 6EE",
+  "phone": "08719 846162",
+  "verified": false
+ },
+ {
+  "name": "NEWCASTLE GOSFORTH",
+  "address": "HIGH STREET GOSFORTH NE3 4HY",
+  "phone": "08719 846163",
+  "verified": false
+ },
+ {
+  "name": "NEWCASTLE QUAYSIDE",
+  "address": "THE CLOSE QUAYSIDE NE1 3RP",
+  "phone": "08719 846403",
+  "verified": false
+ },
+ {
+  "name": "NEWCASTLE SEATON BURN",
+  "address": "MOTO SERVICE AREA A1 NE13 6BP",
+  "phone": "08719 846164",
+  "verified": false
+ },
+ {
+  "name": "NEWCASTLE WHITEMARE POOL",
+  "address": "A184 A194 M WHITEMARE POOL NE10 8YB",
+  "phone": "08719 846165",
+  "verified": false
+ },
+ {
+  "name": "NEWPORT ISLE OF WIGHT",
+  "address": "ST JAMES STREET NEWPORT PO30 5HB",
+  "phone": "08719 846361",
+  "verified": false
+ },
+ {
+  "name": "NORTHAMPTON CENTRAL",
+  "address": "GOLD STREET NORTHAMPTON NN1 1RA",
+  "phone": "08719 846405",
+  "verified": false
+ },
+ {
+  "name": "NORTHAMPTON ROUND SPINNEY",
+  "address": "ROUND SPINNEY NORTHAMPTON NN3 8RH",
+  "phone": "08719 846099",
+  "verified": false
+ },
+ {
+  "name": "NORTHAMPTON WOOTTON",
+  "address": "A45 NEWPORT PAGNELL ROAD NN4 7JJ",
+  "phone": "08719 846100",
+  "verified": false
+ },
+ {
+  "name": "NORWICH CENTRAL",
+  "address": "14 QUEENS ROAD*NORWICH NR1 3PR",
+  "phone": "08719 846297",
+  "verified": true
+ },
+ {
+  "name": "NORWICH CRINGLEFORD",
+  "address": "A11 THICKTHORN SERVICES NR11 7TQ",
+  "phone": "08719 846167",
+  "verified": false
+ },
+ {
+  "name": "NOTTINGHAM CENTRAL",
+  "address": "NEW CITY HOUSE*MAID MARIAN WAY*NOTTINGHAM NG1 6AJ",
+  "phone": "08719 846280",
+  "verified": true
+ },
+ {
+  "name": "NOTTINGHAM RIVERSIDE",
+  "address": "RIVERSIDE RETAIL PARK NOTTINGHAM NG2 1RT",
+  "phone": "08719 846407",
+  "verified": false
+ },
+ {
+  "name": "NOTTINGHAM TROWELL M1",
+  "address": "MOTO SERVICE AREA M1 NORTHBOUND NG9 3TG",
+  "phone": "08719 846169",
+  "verified": false
+ },
+ {
+  "name": "NOTTINGHAM WOLLATON PARK",
+  "address": "DERBY ROAD WOLLATON PARK NG8 1AF",
+  "phone": "08719 846170",
+  "verified": false
+ },
+ {
+  "name": "NUNEATON",
+  "address": "BEDWORTH BYPASS NUNEATON CV10 7SD",
+  "phone": "08719 846102",
+  "verified": false
+ },
+ {
+  "name": "NUNEATON BEDWORTH",
+  "address": "A444 SOUTHBOUND*BEDWORTH*NUNEATON CV10 7TF",
+  "phone": "08719 846062",
+  "verified": true
+ },
+ {
+  "name": "OLDHAM CHADDERTON",
+  "address": "BROADWAY CHADDERTON OLDHAM OL9 8AU",
+  "phone": "08719 846104",
+  "verified": false
+ },
+ {
+  "name": "OXFORD PEARTREE",
+  "address": "MOTO SERVICE AREA WOODSTOCK ROAD OX2 8JZ",
+  "phone": "08719 846171",
+  "verified": false
+ },
+ {
+  "name": "OXFORD WHEATLEY",
+  "address": "HARVESTER LONDON ROAD OX33 1JH",
+  "phone": "08719 846172",
+  "verified": false
+ },
+ {
+  "name": "PAIGNTON SEAFRONT",
+  "address": "ESPLANADE ROAD PAIGNTON TQ4 6BQ",
+  "phone": "08719 846475",
+  "verified": false
+ },
+ {
+  "name": "PEMBROKE DOCK",
+  "address": "PIER ROAD*PEMBROKE DOCK*PEMBROKESHIRE SA72 6TR",
+  "phone": "08719 846299",
+  "verified": true
+ },
+ {
+  "name": "PENRITH",
+  "address": "A66 ULLSWATER ROAD PENRITH CA11 7JU",
+  "phone": "08719 846105",
+  "verified": false
+ },
+ {
+  "name": "PETERBOROUGH ALWALTON",
+  "address": "A1 SOUTHBOUND*ALWALTON*NR PETERBOROUGH PE7 3UG",
+  "phone": "08719 846003",
+  "verified": true
+ },
+ {
+  "name": "PETERBOROUGH CENTRAL",
+  "address": "NEW ROAD PETERBOROUGH PE1 1FJ",
+  "phone": "08719 846411",
+  "verified": false
+ },
+ {
+  "name": "PETERBOROUGH EYE GREEN",
+  "address": "A15 A47 EYE GREEN PETERBOROUGH PE6 7UE",
+  "phone": "08719 846106",
+  "verified": false
+ },
+ {
+  "name": "PLYMOUTH DERRIFORD",
+  "address": "9 BRACKEN LANE*PLYMOUTH PL6 8BB",
+  "phone": "08715 591839",
+  "verified": true
+ },
+ {
+  "name": "PLYMOUTH ROBOROUGH",
+  "address": "399 TAVISTOCK ROAD*PLYMOUTH PL6 7HB",
+  "phone": "08715 591840",
+  "verified": true
+ },
+ {
+  "name": "POOLE",
+  "address": "LIFEBOAT QUAY POOLE BH15 1LS",
+  "phone": "08719 846413",
+  "verified": false
+ },
+ {
+  "name": "PORTSMOUTH",
+  "address": "LONDON ROAD HILSEA PORTSMOUTH PO2 9RS",
+  "phone": "08719 846108",
+  "verified": false
+ },
+ {
+  "name": "PORTSMOUTH CITY CENTRE",
+  "address": "STANHOPE ROAD PORTSMOUTH PO1 1DZ",
+  "phone": "08719 846415",
+  "verified": false
+ },
+ {
+  "name": "PORTSMOUTH HILSEA",
+  "address": "COPNOR ROAD*HILSEA*PORTSMOUTH PO3 5HS",
+  "phone": "08715 591841",
+  "verified": true
+ },
+ {
+  "name": "PRESTON CENTRAL",
+  "address": "PRESTON FARMERS OFFICE*47*NEW HALL LANE*PRESTON PR1 5NX",
+  "phone": "08719 846150",
+  "verified": true
+ },
+ {
+  "name": "RAMSGATE SEAFRONT",
+  "address": "ROYAL PARADE RAMSGATE KENT CT11 8LZ",
+  "phone": "08719 846477",
+  "verified": false
+ },
+ {
+  "name": "READING CENTRAL",
+  "address": "602 OXFORD ROAD READING RG30 1EE",
+  "phone": "08719 846173",
+  "verified": false
+ },
+ {
+  "name": "READING M4 EASTBOUND",
+  "address": "MOTO SERVICE AREA M4 EASTBOUND RG30 3UQ",
+  "phone": "08719 846175",
+  "verified": false
+ },
+ {
+  "name": "READING M4 WESTBOUND",
+  "address": "MOTO SERVICE AREA M4 WESTBOUND RG30 3UQ",
+  "phone": "08719 846176",
+  "verified": false
+ },
+ {
+  "name": "READING WHITLEY",
+  "address": "BASINGSTOKE ROAD READING RG2 0JA",
+  "phone": "08719 846111",
+  "verified": false
+ },
+ {
+  "name": "REDHILL",
+  "address": "2 REDSTONE HILL*REDHILL RH1 4BL",
+  "phone": "08715 591843",
+  "verified": true
+ },
+ {
+  "name": "RETFORD MARKHAM MOOR",
+  "address": "A1 NORTHBOUND RETFORD DN22 0QU",
+  "phone": "08719 846113",
+  "verified": false
+ },
+ {
+  "name": "RHYL SEAFRONT",
+  "address": "WEST PARADE RHYL LL18 1HE",
+  "phone": "08719 846523",
+  "verified": false
+ },
+ {
+  "name": "RINGWOOD",
+  "address": "A31 EASTBOUND*ST LEONARDS*RINGWOOD BH24 2NR",
+  "phone": "08719 846237",
+  "verified": true
+ },
+ {
+  "name": "RUGBY CENTRAL",
+  "address": "RUGBY GATEWAY LEICESTER ROAD CV23 0WX",
+  "phone": "08719 846525",
+  "verified": false
+ },
+ {
+  "name": "RUGBY DUNCHURCH",
+  "address": "A45 LONDON ROAD DUNCHURCH CV23 9LG",
+  "phone": "08719 846116",
+  "verified": false
+ },
+ {
+  "name": "SALTASH",
+  "address": "SALTASH SERVICES*CARKEEL ROUNDABOUT*CALLINGTON ROAD PL12 6LF",
+  "phone": "08719 846051",
+  "verified": true
+ },
+ {
+  "name": "SCARBOROUGH ST NICHOLAS",
+  "address": "ST NICHOLAS CLIFF SCARBOROUGH YO11 2EU",
+  "phone": "08719 846425",
+  "verified": false
+ },
+ {
+  "name": "SCUNTHORPE",
+  "address": "DONCASTER ROAD SCUNTHORPE DN15 8TE",
+  "phone": "08719 846094",
+  "verified": false
+ },
+ {
+  "name": "SEDGEFIELD",
+  "address": "A19 NORTHBOUND SEDGEFIELD TS21 2JX",
+  "phone": "08719 846095",
+  "verified": false
+ },
+ {
+  "name": "SHEFFIELD CENTRAL",
+  "address": "BROAD STREET SHEFFIELD S1 2NJ",
+  "phone": "08719 846297",
+  "verified": false
+ },
+ {
+  "name": "SHEFFIELD MEADOWHALL",
+  "address": "400 MEADOWHALL WAY SHEFFIELD S9 1DL",
+  "phone": "08719 846297",
+  "verified": false
+ },
+ {
+  "name": "SHEFFIELD RICHMOND",
+  "address": "635 RETFORD ROAD SHEFFIELD S13 9WD",
+  "phone": "08719 846094",
+  "verified": false
+ },
+ {
+  "name": "SHREWSBURY BATTLEFIELD",
+  "address": "BATTLEFIELD ROUNDABOUT*JUNCTION A49 AND A53*SHREWSBURY SY4 3EQ",
+  "phone": "08719 846120",
+  "verified": true
+ },
+ {
+  "name": "SITTINGBOURNE",
+  "address": "ST MICHAELS ROAD SITTINGBOURNE ME10 3DE",
+  "phone": "08719 846501",
+  "verified": false
+ },
+ {
+  "name": "SKIPTON",
+  "address": "GARGRAVE ROAD SKIPTON BD23 1UD",
+  "phone": "08719 846097",
+  "verified": false
+ },
+ {
+  "name": "SLEAFORD",
+  "address": "A15 A17 HOLDINGHAM ROUNDABOUT SLEAFORD NG34 8PN",
+  "phone": "08719 846098",
+  "verified": false
+ },
+ {
+  "name": "SOUTHAMPTON CENTRAL",
+  "address": "CASTLE WAY SOUTHAMPTON SO14 2BW",
+  "phone": "08719 846302",
+  "verified": false
+ },
+ {
+  "name": "SOUTHEND ON SEA",
+  "address": "100 104 HIGH STREET SOUTHEND ON SEA SS1 1JT",
+  "phone": "08719 846391",
+  "verified": false
+ },
+ {
+  "name": "ST ALBANS CITY CENTRE",
+  "address": "ST PETERS STREET ST ALBANS AL1 3LP",
+  "phone": "08719 846471",
+  "verified": false
+ },
+ {
+  "name": "ST AUSTELL",
+  "address": "PENTEWAN ROAD*ST AUSTELL*CORNWALL PL25 5BU",
+  "phone": "08719 846160",
+  "verified": true
+ },
+ {
+  "name": "ST CLEARS CARMARTHEN",
+  "address": "A40 A4066 ROUNDABOUT*TENBY ROAD*ST CLEARS SA33 4JN",
+  "phone": "08719 846053",
+  "verified": true
+ },
+ {
+  "name": "STAFFORD CENTRAL",
+  "address": "HOUGH RETAIL PARK LICHFIELD ROAD STAFFORD ST17 4LU",
+  "phone": "08719 846467",
+  "verified": false
+ },
+ {
+  "name": "STIRLING M80",
+  "address": "MOTO SERVICE AREA PIRNHALL STIRLING FK7 8EU",
+  "phone": "08719 846182",
+  "verified": false
+ },
+ {
+  "name": "STOCKPORT",
+  "address": "HEATON LANE STOCKPORT SK4 1AR",
+  "phone": "08719 846115",
+  "verified": false
+ },
+ {
+  "name": "STOKE ON TRENT TRENTHAM",
+  "address": "206 LONGTON ROAD*STOKE ON TRENT*STAFFORDSHIRE ST4 8BU",
+  "phone": "08715 591848",
+  "verified": true
+ },
+ {
+  "name": "STONEHOUSE",
+  "address": "A419 EASTINGTON*NR STROUD GL10 3SQ",
+  "phone": "08719 846054",
+  "verified": true
+ },
+ {
+  "name": "STRATFORD UPON AVON",
+  "address": "BIRMINGHAM ROAD STRATFORD UPON AVON CV37 0HZ",
+  "phone": "08719 846395",
+  "verified": false
+ },
+ {
+  "name": "SUNDERLAND CENTRAL",
+  "address": "LOW ROW SUNDERLAND SR1 3PY",
+  "phone": "08719 846481",
+  "verified": false
+ },
+ {
+  "name": "SWANSEA CENTRAL",
+  "address": "PRINCESS WAY SWANSEA SA1 3LQ",
+  "phone": "08719 846311",
+  "verified": false
+ },
+ {
+  "name": "SWANSEA M4",
+  "address": "MOTO SERVICE AREA*M4 MOTORWAY*JCT 47*PENLLERGAER SA4 9GT",
+  "phone": "08719 846055",
+  "verified": true
+ },
+ {
+  "name": "SWINDON CENTRAL",
+  "address": "PRINCES STREET SWINDON SN1 2HL",
+  "phone": "08719 846451",
+  "verified": false
+ },
+ {
+  "name": "SWINDON WEST",
+  "address": "BARNFIELD GREAT WESTERN WAY SWINDON SN5 8UY",
+  "phone": "08719 846095",
+  "verified": false
+ },
+ {
+  "name": "TAMWORTH CENTRAL",
+  "address": "BOLEBRIDGE STREET TAMWORTH B79 7PA",
+  "phone": "08719 846455",
+  "verified": false
+ },
+ {
+  "name": "TAUNTON",
+  "address": "RIVERSIDE RETAIL PARK*HANKRIDGE FARM*BLACKBROOK PARK TA1 2LR",
+  "phone": "08719 846056",
+  "verified": true
+ },
+ {
+  "name": "TELFORD SHAWBIRCH",
+  "address": "WHITCHURCH ROAD WELLINGTON TELFORD TF1 3QA",
+  "phone": "08719 846099",
+  "verified": false
+ },
+ {
+  "name": "TEWKESBURY",
+  "address": "SHANNON WAY TEWKESBURY GL20 8ND",
+  "phone": "08719 846104",
+  "verified": false
+ },
+ {
+  "name": "THAME",
+  "address": "A418 A329 THAME OX9 3RT",
+  "phone": "08719 846100",
+  "verified": false
+ },
+ {
+  "name": "THETFORD",
+  "address": "BRIDGE STREET THETFORD IP24 3AF",
+  "phone": "08715 591889",
+  "verified": false
+ },
+ {
+  "name": "TIVERTON",
+  "address": "SAMPFORD PEVERELL SERVICE AREA*SAMPFORD PEVERELL*M5 JUNCTION 27 EX16 7HD",
+  "phone": "08719 846057",
+  "verified": true
+ },
+ {
+  "name": "TORQUAY",
+  "address": "NEWTON ROAD TORQUAY TQ2 7AD",
+  "phone": "08719 846106",
+  "verified": false
+ },
+ {
+  "name": "TOWCESTER SILVERSTONE",
+  "address": "A43*TOWCESTER BYPASS*NORTHAMPTONSHIRE NN12 6TQ",
+  "phone": "08719 846112",
+  "verified": true
+ },
+ {
+  "name": "TUNBRIDGE WELLS",
+  "address": "MOUNT EPHRAIM TUNBRIDGE WELLS TN4 8BU",
+  "phone": "08719 846107",
+  "verified": false
+ },
+ {
+  "name": "WAKEFIELD WOOLLEY EDGE M1 NORTHBOUND",
+  "address": "MOTO SERVICE AREA WOOLLEY EDGE*M1 MOTORWAY*WEST BRETTON*WAKEFIELD WF4 4LQ",
+  "phone": "08719 846263",
+  "verified": true
+ },
+ {
+  "name": "WALLASEY NEW BRIGHTON",
+  "address": "MARINE POINT KINGS PARADE NEW BRIGHTON CH45 2HZ",
+  "phone": "08719 846459",
+  "verified": false
+ },
+ {
+  "name": "WALSALL",
+  "address": "LITTLETON STREET WEST WALSALL WS2 8EN",
+  "phone": "08719 846473",
+  "verified": false
+ },
+ {
+  "name": "WALTON ON THAMES",
+  "address": "ASHLEY PARK ROAD*WALTON ON THAMES*SURREY KT12 1JP",
+  "phone": "08715 591850",
+  "verified": true
+ },
+ {
+  "name": "WARMINSTER",
+  "address": "SERVICE AREA*A36 A350 BYPASS*BATH ROAD BA12 7RU",
+  "phone": "08719 846058",
+  "verified": true
+ },
+ {
+  "name": "WARRINGTON",
+  "address": "KENDRICK LEIGH STREET*WARRINGTON*CHESHIRE WA1 1UZ",
+  "phone": "08719 846180",
+  "verified": true
+ },
+ {
+  "name": "WARRINGTON LOWTON",
+  "address": "322 NEWTON ROAD*LOWTON*WARRINGTON WA3 1HD",
+  "phone": "08715 591851",
+  "verified": true
+ },
+ {
+  "name": "WASHINGTON A1M NORTHBOUND",
+  "address": "MOTO SERVICE AREA BIRTLEY DH3 2SJ",
+  "phone": "08719 846116",
+  "verified": false
+ },
+ {
+  "name": "WASHINGTON A1M SOUTHBOUND",
+  "address": "MOTO SERVICE AREA BIRTLEY DH3 2SJ",
+  "phone": "08719 846117",
+  "verified": false
+ },
+ {
+  "name": "WELLINGBOROUGH",
+  "address": "ENNERDALE ROAD WELLINGBOROUGH NN8 2HA",
+  "phone": "08719 846118",
+  "verified": false
+ },
+ {
+  "name": "WELLINGBOROUGH RUSHDEN",
+  "address": "A45 EASTBOUND*RUSHDEN*NORTHAMPTONSHIRE NN10 6AP",
+  "phone": "08719 846115",
+  "verified": true
+ },
+ {
+  "name": "WELLINGTON SOMERSET",
+  "address": "WEST PARK*OFF WEST BUCKLAND ROAD*WELLINGTON TA21 9AD",
+  "phone": "08715 591858",
+  "verified": true
+ },
+ {
+  "name": "WESTON SUPER MARE",
+  "address": "WINDWHISTLE ROAD WESTON SUPER MARE BS23 4PZ",
+  "phone": "08719 846121",
+  "verified": false
+ },
+ {
+  "name": "WIDNES",
+  "address": "FIDDLERS FERRY ROAD*A562*WIDNES WA8 0HA",
+  "phone": "08719 846183",
+  "verified": true
+ },
+ {
+  "name": "WINDSOR CENTRAL",
+  "address": "HIGH STREET WINDSOR SL4 1LP",
+  "phone": "08719 846311",
+  "verified": false
+ },
+ {
+  "name": "WIRRAL EASTHAM",
+  "address": "A41 NORTHBOUND*1408 NEW CHESTER ROAD*EASTHAM CH62 9AQ",
+  "phone": "08719 846184",
+  "verified": true
+ },
+ {
+  "name": "WOKING CENTRAL",
+  "address": "WHITE ROSE COURT*ORIENTAL ROAD*WOKING GU22 7PJ",
+  "phone": "08719 846462",
+  "verified": true
+ },
+ {
+  "name": "WORKSOP",
+  "address": "ST ANNES DRIVE*DUKERIES MILL*WORKSOP S80 3QD",
+  "phone": "08719 846185",
+  "verified": true
+ },
+ {
+  "name": "WORTHING SEAFRONT",
+  "address": "MARINE PARADE WORTHING BN11 3HE",
+  "phone": "08719 846497",
+  "verified": false
+ },
+ {
+  "name": "WREXHAM",
+  "address": "A483 A5152*WREXHAM BYPASS*RHOSTYLLEN LL14 4EJ",
+  "phone": "08719 846116",
+  "verified": true
+ },
+ {
+  "name": "YEOVIL PODIMORE",
+  "address": "A303 PODIMORE*PODIMORE SERVICES*YEOVIL BA22 8JG",
+  "phone": "08719 846059",
+  "verified": true
+ },
+ {
+  "name": "YORK CENTRAL",
+  "address": "90 PICCADILLY*YORK YO1 9NX",
+  "phone": "08719 846187",
+  "verified": true
+ },
+ {
+  "name": "YORK CENTRAL MICKLEGATE",
+  "address": "MICKLEGATE YORK YO1 6JG",
+  "phone": "08719 846419",
+  "verified": false
+ },
+ {
+  "name": "YORK HULL ROAD",
+  "address": "HULL ROAD*YORK YO10 3LF",
+  "phone": "08715 591852",
+  "verified": true
+ },
+ {
+  "name": "YORK TADCASTER",
+  "address": "A64 EASTBOUND*BILBROUGH*YORK LS24 8EQ",
+  "phone": "08719 846186",
+  "verified": true
+ }
+]
