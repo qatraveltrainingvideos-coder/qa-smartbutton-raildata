@@ -11,6 +11,10 @@
     "Key": "BARCELONA SANTS 71801",
     "Value": "BARCELONA SANTS 71801"
   },
+      {
+    "Key": "Berlin HBF DEZVR",
+    "Value": "Berlin HBF DEZVR"
+  },
   {
     "Key": "Bruges BEOST",
     "Value": "Bruges BEOST"
@@ -94,6 +98,10 @@
   {
     "Key": "St Pancras International GBQQS",
     "Value": "St Pancras International GBQQS"
+  },
+    {
+    "Key": "Swinoujscie Centrum PLPSM",
+    "Value": "Swinoujscie Centrum PLPSM"
   },
   {
     "Key": "ZARAGOZA DELICIAS 04040",
