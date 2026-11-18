@@ -1013,6 +1013,12 @@
   "phone": "08719 846371",
   "verified": false
  },
+  {
+  "name": "LONDON CITY",
+  "address": "20 Middlesex St London E1 7EX",
+  "phone": "08719 846534",
+  "verified": true
+ },
  {
   "name": "LONDON CITY AIRPORT",
   "address": "1 CONNAUGHT ROAD*LONDON E16 2DB",
