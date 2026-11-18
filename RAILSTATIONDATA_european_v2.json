@@ -15,6 +15,10 @@
     "Key": "Barcelona Sants 71801",
     "Value": "Barcelona Sants 71801"
   },
+    {
+    "Key": "Berlin HBF DEZVR",
+    "Value": "Berlin HBF DEZVR"
+  },
   {
   "Key": "Bolzano/Bozen ITXBZ",
   "Value": "Bolzano/Bozen ITXBZ"
@@ -138,6 +142,10 @@
   {
     "Key": "St Pancras International GBQQS",
     "Value": "St Pancras International GBQQS"
+  },
+    {
+    "Key": "Swinoujscie Centrum PLPSM",
+    "Value": "Swinoujscie Centrum PLPSM"
   },
   {
   "Key": "Verona Porta Nuova ITXVR",
