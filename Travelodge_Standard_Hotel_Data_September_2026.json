@@ -1015,7 +1015,7 @@
  },
   {
   "name": "LONDON CITY",
-  "address": "20 Middlesex St London E1 7EX",
+  "address": "20 Middlesex St*London E1 7EX",
   "phone": "08719 846534",
   "verified": true
  },
